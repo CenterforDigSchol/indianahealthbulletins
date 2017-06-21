@@ -1,0 +1,133 @@
+Month,Year,Region,Total Deaths,Pulmonary Tuberculosis,"Other Forms, Tuberculosis",Typhoid Fever,Diptheria,Croup
+January,1900,Indiana (statewide),2858,298,85,89,68,21
+January,1900,Northern counties,826,76,19,21,29,6
+January,1900,Central counties,1212,130,45,37,29,6
+January,1900,Southern counties,820,195,21,31,10,9
+January,1900,Urban,1072,105,33,36,30,3
+January,1900,Rural,1786,193,52,53,38,18
+January,1900,"Cities, class 1",311,32,11,12,8,1
+January,1900,"Cities, class 2",145,14,5,4,8,0
+January,1900,"Cities, class 3",288,28,8,11,11,2
+January,1900,"Cities, class 4",173,22,7,9,1,0
+January,1900,"Cities, class 5",155,9,2,0,2,0
+February,1900,Indiana (statewide),2732,339,56,48,50,17
+February,1900,Northern counties,811,71,21,11,20,10
+February,1900,Central counties,1109,142,27,20,19,5
+February,1900,Southern counties,812,126,8,17,11,2
+February,1900,Urban,1073,139,31,15,22,4
+February,1900,Rural,1659,200,25,33,28,13
+February,1900,"Cities, class 1",275,38,2,3,4,1
+February,1900,"Cities, class 2",133,18,4,4,4,0
+February,1900,"Cities, class 3",315,40,16,7,11,3
+February,1900,"Cities, class 4",187,26,6,0,2,0
+February,1900,"Cities, class 5",163,17,3,1,1,0
+March,1900,Indiana (statewide),3217,351,84,42,51,16
+March,1900,Northern counties,905,87,20,14,16,5
+March,1900,Central counties,1380,162,47,14,26,5
+March,1900,Southern counties,932,102,17,14,9,6
+March,1900,Urban,1159,125,32,17,26,3
+March,1900,Rural,2058,226,52,25,25,13
+March,1900,"Cities, class 1",346,37,11,3,5,1
+March,1900,"Cities, class 2",153,16,9,4,4,1
+March,1900,"Cities, class 3",290,35,3,5,8,0
+March,1900,"Cities, class 4",197,15,2,3,7,0
+March,1900,"Cities, class 5",173,22,7,2,2,1
+April,1900,Indiana (statewide),2981,334,69,33,21,8
+April,1900,Northern counties,883,86,14,8,8,3
+April,1900,Central counties,1284,156,39,7,6,3
+April,1900,Southern counties,814,92,16,18,7,2
+April,1900,Urban,1196,121,24,17,16,1
+April,1900,Rural,1785,213,45,16,5,7
+April,1900,"Cities, class 1",354,32,8,6,2,0
+April,1900,"Cities, class 2",157,13,1,1,2,0
+April,1900,"Cities, class 3",326,38,12,2,7,0
+April,1900,"Cities, class 4",200,21,2,7,2,1
+April,1900,"Cities, class 5",159,19,1,1,3,0
+May,1900,Indiana (statewide),2558,270,83,38,12,3
+May,1900,Northern counties,763,75,18,13,4,2
+May,1900,Central counties,1133,112,44,13,3,1
+May,1900,Southern counties,662,83,21,12,5,0
+May,1900,Urban,1038,110,36,15,6,1
+May,1900,Rural,1520,160,47,23,6,2
+May,1900,"Cities, class 1",306,27,12,3,1,0
+May,1900,"Cities, class 2",131,10,4,3,2,0
+May,1900,"Cities, class 3",283,32,10,4,1,1
+May,1900,"Cities, class 4",163,27,5,3,1,0
+May,1900,"Cities, class 5",155,14,5,2,1,0
+June,1900,Indiana (statewide),2255,294,74,34,7,3
+June,1900,Northern counties,676,86,20,6,2,1
+June,1900,Central counties,963,115,32,17,3,1
+June,1900,Southern counties,616,93,22,11,2,1
+June,1900,Urban,918,96,36,7,5,1
+June,1900,Rural,1337,198,38,27,2,2
+June,1900,"Cities, class 1",309,26,20,1,0,0
+June,1900,"Cities, class 2",127,10,3,0,2,0
+June,1900,"Cities, class 3",211,35,4,5,1,0
+June,1900,"Cities, class 4",150,13,4,0,2,1
+June,1900,"Cities, class 5",121,12,5,1,0,0
+July,1900,Indiana (statewide),2932,262,92,64,12,4
+July,1900,Northern counties,794,72,21,16,2,0
+July,1900,Central counties,1326,117,42,19,5,3
+July,1900,Southern counties,812,73,29,29,5,1
+July,1900,Urban,1171,97,34,18,3,3
+July,1900,Rural,1761,165,58,46,9,1
+July,1900,"Cities, class 1",395,30,9,7,2,0
+July,1900,"Cities, class 2",172,9,6,0,0,0
+July,1900,"Cities, class 3",271,28,8,4,0,1
+July,1900,"Cities, class 4",171,16,5,4,1,2
+July,1900,"Cities, class 5",162,14,6,3,0,0
+August,1900,Indiana (statewide),3221,242,83,140,29,4
+August,1900,Northern counties,930,71,25,35,16,2
+August,1900,Central counties,1372,110,29,50,9,1
+August,1900,Southern counties,919,61,29,55,4,1
+August,1900,Urban,1160,106,31,49,16,1
+August,1900,Rural,2061,136,52,91,13,3
+August,1900,"Cities, class 1",305,32,7,17,0,0
+August,1900,"Cities, class 2",169,15,3,4,9,1
+August,1900,"Cities, class 3",265,24,10,5,5,0
+August,1900,"Cities, class 4",227,21,7,14,1,0
+August,1900,"Cities, class 5",194,14,4,9,1,0
+September,1900,Indiana (statewide),3121,242,85,230,52,9
+September,1900,Northern counties,1029,66,23,53,28,4
+September,1900,Central counties,1226,99,39,102,12,3
+September,1900,Southern counties,866,77,23,75,12,2
+September,1900,Urban,1110,103,34,62,25,2
+September,1900,Rural,2011,139,51,168,27,7
+September,1900,"Cities, class 1",281,31,17,17,1,0
+September,1900,"Cities, class 2",181,12,4,12,18,1
+September,1900,"Cities, class 3",288,24,5,17,2,1
+September,1900,"Cities, class 4",192,16,4,11,2,0
+September,1900,"Cities, class 5",168,20,4,5,2,0
+October,1900,Indiana (statewide),2933,287,48,191,102,19
+October,1900,Northern counties,891,79,14,68,37,7
+October,1900,Central counties,1175,126,13,72,37,6
+October,1900,Southern counties,867,82,21,51,28,6
+October,1900,Urban,1151,128,18,58,45,7
+October,1900,Rural,1782,159,30,133,57,12
+October,1900,"Cities, class 1",328,40,7,8,10,3
+October,1900,"Cities, class 2",148,14,1,10,4,2
+October,1900,"Cities, class 3",296,33,4,18,12,1
+October,1900,"Cities, class 4",227,27,5,11,13,0
+October,1900,"Cities, class 5",152,14,1,11,6,1
+November,1900,Indiana (statewide),2854,250,52,164,172,8
+November,1900,Northern counties,876,78,15,37,65,0
+November,1900,Central counties,1144,98,17,76,78,4
+November,1900,Southern counties,834,74,20,51,29,4
+November,1900,Urban,1127,96,26,48,63,1
+November,1900,Rural,1727,154,26,116,109,7
+November,1900,"Cities, class 1",289,28,6,11,8,1
+November,1900,"Cities, class 2",161,13,3,7,13,0
+November,1900,"Cities, class 3",326,17,10,16,22,0
+November,1900,"Cities, class 4",213,27,5,10,7,0
+November,1900,"Cities, class 5",138,11,2,4,13,0
+December,1900,Indiana (statewide),2880,308,29,139,121,17
+December,1900,Northern counties,919,69,6,32,51,5
+December,1900,Central counties,1137,124,16,67,49,8
+December,1900,Southern counties,824,115,7,40,21,4
+December,1900,Urban,1096,123,11,42,52,4
+December,1900,Rural,1784,185,18,97,69,13
+December,1900,"Cities, class 1",263,30,1,9,6,0
+December,1900,"Cities, class 2",182,19,3,3,21,1
+December,1900,"Cities, class 3",291,33,2,14,12,1
+December,1900,"Cities, class 4",210,21,2,12,5,0
+December,1900,"Cities, class 5",150,20,3,4,8,2

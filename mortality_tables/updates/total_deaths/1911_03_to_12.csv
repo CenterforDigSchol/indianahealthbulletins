@@ -1,0 +1,111 @@
+Month,Year,Region,Total Deaths,Pulmonary Tuberculosis,"Other Forms, Tuberculosis",Typhoid Fever,Diptheria,Croup
+March,1911,Indiana (statewide),3238,353,57,36,21,5
+March,1911,Northern counties,988,103,18,14,5,1
+March,1911,Central counties,1452,152,26,12,6,0
+March,1911,Southern counties,798,98,13,10,10,4
+March,1911,Urban,1496,169,25,22,8,3
+March,1911,Rural,1732,184,32,14,13,2
+March,1911,"Cities, class 1",328,35,6,2,0,0
+March,1911,"Cities, class 2",325,37,8,3,2,1
+March,1911,"Cities, class 3",169,17,3,5,2,0
+March,1911,"Cities, class 4",273,33,1,6,2,1
+March,1911,"Cities, class 5",401,47,7,6,2,1
+April,1911,Indiana (statewide),3054,300,58,40,15,2
+April,1911,Northern counties,1005,72,17,18,5,0
+April,1911,Central counties,1253,126,25,13,3,1
+April,1911,Southern counties,796,102,16,9,7,1
+April,1911,Urban,1448,136,27,15,9,0
+April,1911,Rural,1606,164,31,25,6,2
+April,1911,"Cities, class 1",325,32,4,4,2,0
+April,1911,"Cities, class 2",293,25,3,0,4,0
+April,1911,"Cities, class 3",172,20,5,2,1,0
+April,1911,"Cities, class 4",231,14,5,5,1,0
+April,1911,"Cities, class 5",427,45,10,4,1,0
+May,1911,Indiana (statewide),2686,288,62,29,9,1
+May,1911,Northern counties,875,85,19,10,4,0
+May,1911,Central counties,1138,114,31,12,2,0
+May,1911,Southern counties,673,89,12,7,3,1
+May,1911,Urban,1362,141,36,12,6,0
+May,1911,Rural,1324,147,26,17,3,1
+May,1911,"Cities, class 1",288,37,11,2,1,0
+May,1911,"Cities, class 2",308,27,7,6,3,0
+May,1911,"Cities, class 3",152,10,4,3,1,0
+May,1911,"Cities, class 4",222,24,4,1,1,0
+May,1911,"Cities, class 5",392,43,10,0,0,0
+June,1911,Indiana (statewide),2353,283,56,29,18,0
+June,1911,Northern counties,742,79,9,10,8,0
+June,1911,Central counties,984,132,38,15,8,0
+June,1911,Southern counties,627,72,9,4,2,0
+June,1911,Urban,1170,163,31,16,10,0
+June,1911,Rural,1363,120,25,13,8,0
+June,1911,"Cities, class 1",260,39,13,2,2,0
+June,1911,"Cities, class 2",295,36,3,6,3,0
+June,1911,"Cities, class 3",113,12,3,3,0,0
+June,1911,"Cities, class 4",201,25,1,4,4,0
+June,1911,"Cities, class 5",301,51,11,1,1,0
+July,1911,Indiana (statewide),2921,287,67,72,10,0
+July,1911,Northern counties,941,88,16,19,8,0
+July,1911,Central counties,1211,124,26,24,0,0
+July,1911,Southern counties,769,75,25,29,2,0
+July,1911,Urban,1450,137,30,34,9,0
+July,1911,Rural,1471,150,37,38,1,0
+July,1911,"Cities, class 1",307,24,10,9,2,0
+July,1911,"Cities, class 2",348,37,3,7,2,0
+July,1911,"Cities, class 3",160,14,4,3,1,0
+July,1911,"Cities, class 4",264,18,5,7,3,0
+July,1911,"Cities, class 5",371,44,8,8,1,0
+August,1911,Indiana (statewide),2653,259,59,102,12,0
+August,1911,Northern counties,887,81,16,18,6,0
+August,1911,Central counties,1170,114,25,47,5,0
+August,1911,Southern counties,596,64,18,37,1,0
+August,1911,Urban,1338,121,33,37,7,0
+August,1911,Rural,1315,138,26,65,5,0
+August,1911,"Cities, class 1",291,36,7,12,2,0
+August,1911,"Cities, class 2",262,19,11,10,2,0
+August,1911,"Cities, class 3",165,11,3,5,1,0
+August,1911,"Cities, class 4",249,22,6,5,2,0
+August,1911,"Cities, class 5",371,33,6,5,0,0
+September,1911,Indiana (statewide),2409,195,52,86,29,0
+September,1911,Northern counties,858,40,11,27,13,0
+September,1911,Central counties,1027,106,32,33,11,0
+September,1911,Southern counties,524,49,9,26,5,0
+September,1911,Urban,1175,92,30,42,22,0
+September,1911,Rural,1234,103,22,44,7,0
+September,1911,"Cities, class 1",254,24,8,9,6,0
+September,1911,"Cities, class 2",249,22,4,10,0,0
+September,1911,"Cities, class 3",129,11,6,4,1,0
+September,1911,"Cities, class 4",222,13,3,7,10,0
+September,1911,"Cities, class 5",321,22,9,12,5,0
+October,1911,Indiana (statewide),2674,226,59,91,68,2
+October,1911,Northern counties,869,54,9,30,16,0
+October,1911,Central counties,1157,102,33,31,34,0
+October,1911,Southern counties,648,70,17,30,18,2
+October,1911,Urban,1310,118,32,36,47,1
+October,1911,Rural,1364,108,27,55,21,1
+October,1911,"Cities, class 1",286,28,13,9,16,0
+October,1911,"Cities, class 2",312,22,5,9,9,0
+October,1911,"Cities, class 3",129,12,6,2,4,0
+October,1911,"Cities, class 4",238,16,4,6,6,1
+October,1911,"Cities, class 5",345,40,4,10,12,0
+November,1911,Indiana (statewide),2614,250,33,74,47,2
+November,1911,Northern counties,829,60,10,20,6,0
+November,1911,Central counties,1119,115,18,30,20,0
+November,1911,Southern counties,666,75,5,24,21,2
+November,1911,Urban,1309,121,18,28,27,0
+November,1911,Rural,1305,129,15,46,20,2
+November,1911,"Cities, class 1",273,28,4,2,5,0
+November,1911,"Cities, class 2",279,25,1,2,3,0
+November,1911,"Cities, class 3",143,15,5,3,4,0
+November,1911,"Cities, class 4",232,19,4,8,5,0
+November,1911,"Cities, class 5",382,34,4,13,10,0
+December,1911,Indiana (statewide),2777,256,49,50,48,3
+December,1911,Northern counties,876,63,13,13,14,1
+December,1911,Central counties,1180,106,26,20,15,0
+December,1911,Southern counties,721,87,10,17,19,2
+December,1911,Urban,1270,131,21,21,20,2
+December,1911,Rural,1507,125,28,29,28,1
+December,1911,"Cities, class 1",307,29,5,5,3,0
+December,1911,"Cities, class 2",261,26,3,4,4,1
+December,1911,"Cities, class 3",175,18,3,0,2,0
+December,1911,"Cities, class 4",244,20,3,4,8,1
+December,1911,"Cities, class 5",283,38,7,8,3,0

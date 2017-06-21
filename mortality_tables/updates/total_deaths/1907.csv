@@ -1,0 +1,133 @@
+Month,Year,Region,Total Deaths,Pulmonary Tuberculosis,"Other Forms, Tuberculosis",Typhoid Fever,Diptheria
+January,1907,Indiana (statewide),2938,303,46,65,27
+January,1907,Northern counties,959,82,16,19,10
+January,1907,Central counties,1307,128,17,26,10
+January,1907,Southern counties,672,93,13,20,7
+January,1907,Urban,1410,139,27,33,15
+January,1907,Rural,1528,164,19,32,12
+January,1907,"Cities, class 1",388,44,9,10,4
+January,1907,"Cities, class 2",244,20,3,3,1
+January,1907,"Cities, class 3",343,31,11,13,5
+January,1907,"Cities, class 4",246,28,2,2,2
+January,1907,"Cities, class 5",189,16,2,5,3
+February,1907,Indiana (statewide),3273,369,37,46,30
+February,1907,Northern counties,1040,94,11,16,6
+February,1907,Central counties,1422,166,20,16,15
+February,1907,Southern counties,811,109,6,14,9
+February,1907,Urban,1477,172,22,20,14
+February,1907,Rural,1796,197,15,26,16
+February,1907,"Cities, class 1",377,44,4,2,2
+February,1907,"Cities, class 2",272,34,4,4,3
+February,1907,"Cities, class 3",353,42,5,8,4
+February,1907,"Cities, class 4",294,27,6,3,3
+February,1907,"Cities, class 5",181,25,3,3,2
+March,1907,Indiana (statewide),3502,373,58,40,35
+March,1907,Northern counties,1146,101,16,12,17
+March,1907,Central counties,1479,158,25,12,12
+March,1907,Southern counties,877,114,17,16,6
+March,1907,Urban,1519,166,29,24,21
+March,1907,Rural,1983,207,29,16,14
+March,1907,"Cities, class 1",574,60,16,8,5
+March,1907,"Cities, class 2",137,13,3,1,2
+March,1907,"Cities, class 3",313,35,6,12,7
+March,1907,"Cities, class 4",261,33,2,2,4
+March,1907,"Cities, class 5",234,25,2,1,3
+April,1907,Indiana (statewide),2813,363,61,38,25
+April,1907,Northern counties,893,103,19,12,8
+April,1907,Central counties,1213,149,26,13,13
+April,1907,Southern counties,707,111,16,13,4
+April,1907,Urban,1270,157,28,19,12
+April,1907,Rural,1543,206,33,19,13
+April,1907,"Cities, class 1",483,60,15,7,3
+April,1907,"Cities, class 2",104,13,1,0,1
+April,1907,"Cities, class 3",302,34,5,8,5
+April,1907,"Cities, class 4",216,34,2,2,3
+April,1907,"Cities, class 5",165,16,5,2,0
+May,1907,Indiana (statewide),2892,309,54,32,17
+May,1907,Northern counties,919,80,12,6,8
+May,1907,Central counties,1194,131,25,16,6
+May,1907,Southern counties,679,98,17,10,3
+May,1907,Urban,1324,140,31,16,9
+May,1907,Rural,1568,169,23,16,8
+May,1907,"Cities, class 1",503,58,14,7,2
+May,1907,"Cities, class 2",102,7,0,1,2
+May,1907,"Cities, class 3",320,29,4,4,5
+May,1907,"Cities, class 4",236,29,7,4,0
+May,1907,"Cities, class 5",163,17,6,0,0
+June,1907,Indiana (statewide),2504,294,49,25,9
+June,1907,Northern counties,820,87,10,9,5
+June,1907,Central counties,1048,111,31,8,3
+June,1907,Southern counties,636,96,8,8,1
+June,1907,Urban,1178,142,26,14,5
+June,1907,Rural,1326,152,23,11,4
+June,1907,"Cities, class 1",453,50,15,3,3
+June,1907,"Cities, class 2",109,15,2,2,1
+June,1907,"Cities, class 3",247,29,2,6,1
+June,1907,"Cities, class 4",231,31,4,3,0
+June,1907,"Cities, class 5",138,17,3,0,0
+July,1907,Indiana (statewide),2986,298,56,53,14
+July,1907,Northern counties,810,88,18,14,6
+July,1907,Central counties,1313,117,29,15,7
+July,1907,Southern counties,863,93,9,24,1
+July,1907,Urban,1472,134,27,17,8
+July,1907,Rural,1514,164,19,36,6
+July,1907,"Cities, class 1",597,51,11,6,2
+July,1907,"Cities, class 2",117,13,6,0,2
+July,1907,"Cities, class 3",293,31,5,6,0
+July,1907,"Cities, class 4",281,23,2,4,2
+July,1907,"Cities, class 5",184,16,3,1,2
+August,1907,Indiana (statewide),3390,305,72,131,17
+August,1907,Northern counties,1181,89,22,25,6
+August,1907,Central counties,1474,134,40,55,8
+August,1907,Southern counties,735,82,10,51,3
+August,1907,Urban,1547,139,39,54,11
+August,1907,Rural,1843,166,33,77,6
+August,1907,"Cities, class 1",577,64,16,20,2
+August,1907,"Cities, class 2",146,16,8,3,1
+August,1907,"Cities, class 3",305,15,1,13,3
+August,1907,"Cities, class 4",299,29,7,6,1
+August,1907,"Cities, class 5",220,15,7,12,4
+September,1907,Indiana (statewide),2751,270,55,133,30
+September,1907,Northern counties,882,67,23,27,11
+September,1907,Central counties,1206,125,19,64,9
+September,1907,Southern counties,663,78,13,42,10
+September,1907,Urban,1199,127,23,52,17
+September,1907,Rural,1552,143,32,81,13
+September,1907,"Cities, class 1",461,56,10,23,7
+September,1907,"Cities, class 2",99,9,1,4,1
+September,1907,"Cities, class 3",273,32,9,6,4
+September,1907,"Cities, class 4",219,17,1,9,2
+September,1907,"Cities, class 5",147,13,2,10,3
+October,1907,Indiana (statewide),2701,256,48,140,34
+October,1907,Northern counties,866,72,13,34,12
+October,1907,Central counties,1171,123,22,52,9
+October,1907,Southern counties,664,61,13,54,13
+October,1907,Urban,1191,116,28,49,11
+October,1907,Rural,1510,140,20,91,23
+October,1907,"Cities, class 1",507,52,8,17,4
+October,1907,"Cities, class 2",92,10,1,1,0
+October,1907,"Cities, class 3",244,23,8,12,3
+October,1907,"Cities, class 4",195,17,4,13,0
+October,1907,"Cities, class 5",153,14,7,6,4
+November,1907,Indiana (statewide),2543,254,38,76,33
+November,1907,Northern counties,851,72,10,19,10
+November,1907,Central counties,1054,112,23,16,12
+November,1907,Southern counties,638,70,5,41,11
+November,1907,Urban,1186,130,14,21,18
+November,1907,Rural,1357,124,24,55,15
+November,1907,"Cities, class 1",480,57,7,6,9
+November,1907,"Cities, class 2",111,15,0,0,2
+November,1907,"Cities, class 3",272,27,3,5,3
+November,1907,"Cities, class 4",202,23,2,8,2
+November,1907,"Cities, class 5",121,8,2,2,2
+December,1907,Indiana (statewide),2768,268,47,69,29
+December,1907,Northern counties,921,78,12,15,9
+December,1907,Central counties,1151,125,22,25,9
+December,1907,Southern counties,696,65,13,29,11
+December,1907,Urban,1248,138,21,28,15
+December,1907,Rural,1520,130,26,41,14
+December,1907,"Cities, class 1",505,51,14,7,4
+December,1907,"Cities, class 2",103,14,3,0,2
+December,1907,"Cities, class 3",265,25,2,8,6
+December,1907,"Cities, class 4",223,28,1,11,3
+December,1907,"Cities, class 5",152,20,1,2,0

@@ -1,0 +1,133 @@
+Month,Year,Region,Total Deaths,Pulmonary Tuberculosis,"Other Forms, Tuberculosis",Typhoid Fever,Diptheria
+January,1908,Indiana (statewide),3200,333,58,51,29
+January,1908,Northern counties,1057,82,14,17,11
+January,1908,Central counties,1275,157,26,17,12
+January,1908,Southern counties,868,94,18,17,6
+January,1908,Urban,1466,163,31,29,12
+January,1908,Rural,1734,170,27,22,17
+January,1908,"Cities, class 1",585,74,14,4,5
+January,1908,"Cities, class 2",126,15,4,0,1
+January,1908,"Cities, class 3",350,32,7,19,4
+January,1908,"Cities, class 4",258,25,3,3,2
+January,1908,"Cities, class 5",147,17,3,3,0
+February,1908,Indiana (statewide),3396,335,63,47,24
+February,1908,Northern counties,1076,90,20,23,9
+February,1908,Central counties,1339,139,26,15,11
+February,1908,Southern counties,981,106,17,9,4
+February,1908,Urban,1360,154,26,22,10
+February,1908,Rural,2036,181,37,25,14
+February,1908,"Cities, class 1",552,64,12,6,6
+February,1908,"Cities, class 2",101,15,2,1,1
+February,1908,"Cities, class 3",340,31,6,9,1
+February,1908,"Cities, class 4",280,27,5,5,2
+February,1908,"Cities, class 5",87,17,1,1,0
+March,1908,Indiana (statewide),3201,369,47,45,18
+March,1908,Northern counties,1062,90,18,15,4
+March,1908,Central counties,1317,165,20,17,12
+March,1908,Southern counties,822,114,9,13,2
+March,1908,Urban,1492,176,23,20,10
+March,1908,Rural,1709,193,24,25,8
+March,1908,"Cities, class 1",582,75,9,8,5
+March,1908,"Cities, class 2",134,10,2,0,2
+March,1908,"Cities, class 3",297,33,3,7,2
+March,1908,"Cities, class 4",289,35,2,4,0
+March,1908,"Cities, class 5",190,23,7,1,1
+April,1908,Indiana (statewide),2954,346,65,35,10
+April,1908,Northern counties,988,96,23,15,3
+April,1908,Central counties,1233,154,29,11,5
+April,1908,Southern counties,733,96,13,9,2
+April,1908,Urban,1383,152,32,13,6
+April,1908,Rural,1571,194,33,22,4
+April,1908,"Cities, class 1",520,59,16,2,2
+April,1908,"Cities, class 2",127,13,3,1,1
+April,1908,"Cities, class 3",310,39,6,5,1
+April,1908,"Cities, class 4",258,22,2,4,2
+April,1908,"Cities, class 5",168,19,5,1,0
+May,1908,Indiana (statewide),2694,330,59,27,9
+May,1908,Northern counties,890,90,21,7,2
+May,1908,Central counties,1170,148,26,11,4
+May,1908,Southern counties,634,92,12,9,3
+May,1908,Urban,1286,156,28,15,5
+May,1908,Rural,1408,174,31,12,4
+May,1908,"Cities, class 1",483,55,9,8,2
+May,1908,"Cities, class 2",56,5,2,0,0
+May,1908,"Cities, class 3",371,47,7,4,2
+May,1908,"Cities, class 4",204,27,5,2,1
+May,1908,"Cities, class 5",172,22,5,1,0
+June,1908,Indiana (statewide),2409,292,52,27,8
+June,1908,Northern counties,767,74,12,9,2
+June,1908,Central counties,1049,128,30,10,5
+June,1908,Southern counties,593,90,10,8,1
+June,1908,Urban,1135,126,27,12,6
+June,1908,Rural,1274,166,25,15,2
+June,1908,"Cities, class 1",444,53,4,3,6
+June,1908,"Cities, class 2",51,3,1,0,0
+June,1908,"Cities, class 3",316,32,10,8,0
+June,1908,"Cities, class 4",178,19,5,0,0
+June,1908,"Cities, class 5",146,19,7,1,0
+July,1908,Indiana (statewide),2832,278,61,58,8
+July,1908,Northern counties,855,62,14,12,1
+July,1908,Central counties,1247,131,33,23,4
+July,1908,Southern counties,730,85,14,23,3
+July,1908,Urban,1298,125,28,23,5
+July,1908,Rural,1534,153,33,35,3
+July,1908,"Cities, class 1",491,48,17,8,3
+July,1908,"Cities, class 2",51,2,0,0,0
+July,1908,"Cities, class 3",325,31,6,8,2
+July,1908,"Cities, class 4",232,28,3,5,0
+July,1908,"Cities, class 5",199,16,2,2,0
+August,1908,Indiana (statewide),2901,237,53,81,12
+August,1908,Northern counties,941,69,10,10,4
+August,1908,Central counties,1255,114,31,38,6
+August,1908,Southern counties,705,54,12,33,2
+August,1908,Urban,1343,103,22,37,5
+August,1908,Rural,1558,134,31,44,7
+August,1908,"Cities, class 1",507,39,12,15,1
+August,1908,"Cities, class 2",66,4,2,0,0
+August,1908,"Cities, class 3",358,26,6,11,1
+August,1908,"Cities, class 4",223,17,2,7,1
+August,1908,"Cities, class 5",189,17,0,4,2
+September,1908,Indiana (statewide),2755,263,55,118,29
+September,1908,Northern counties,950,67,16,30,6
+September,1908,Central counties,1136,134,26,52,17
+September,1908,Southern counties,669,62,13,36,6
+September,1908,Urban,1192,115,26,28,18
+September,1908,Rural,1563,148,29,90,11
+September,1908,"Cities, class 1",422,50,6,8,14
+September,1908,"Cities, class 2",63,4,3,0,0
+September,1908,"Cities, class 3",356,32,9,11,1
+September,1908,"Cities, class 4",195,17,4,5,1
+September,1908,"Cities, class 5",156,12,4,4,2
+October,1908,Indiana (statewide),2674,252,52,129,41
+October,1908,Northern counties,913,63,15,31,7
+October,1908,Central counties,1172,125,30,60,21
+October,1908,Southern counties,589,64,7,38,13
+October,1908,Urban,1258,127,21,56,22
+October,1908,Rural,1416,125,31,73,19
+October,1908,"Cities, class 1",474,55,10,19,8
+October,1908,"Cities, class 2",58,5,0,4,0
+October,1908,"Cities, class 3",358,35,4,17,7
+October,1908,"Cities, class 4",196,18,4,9,6
+October,1908,"Cities, class 5",172,14,3,7,1
+November,1908,Indiana (statewide),2668,278,40,113,44
+November,1908,Northern counties,853,66,14,32,8
+November,1908,Central counties,1087,131,16,42,20
+November,1908,Southern counties,728,81,10,39,16
+November,1908,Urban,1197,143,21,43,20
+November,1908,Rural,1471,135,19,70,24
+November,1908,"Cities, class 1",451,48,8,13,10
+November,1908,"Cities, class 2",57,6,0,4,1
+November,1908,"Cities, class 3",345,52,8,8,6
+November,1908,"Cities, class 4",197,20,1,11,0
+November,1908,"Cities, class 5",147,17,4,7,3
+December,1908,Indiana (statewide),2702,256,35,76,37
+December,1908,Northern counties,817,68,11,21,7
+December,1908,Central counties,1289,105,18,26,15
+December,1908,Southern counties,596,83,6,29,15
+December,1908,Urban,1193,115,19,33,23
+December,1908,Rural,1509,141,16,43,14
+December,1908,"Cities, class 1",477,45,12,17,9
+December,1908,"Cities, class 2",47,5,0,0,1
+December,1908,"Cities, class 3",320,28,3,11,4
+December,1908,"Cities, class 4",178,18,2,5,3
+December,1908,"Cities, class 5",171,19,2,0,6

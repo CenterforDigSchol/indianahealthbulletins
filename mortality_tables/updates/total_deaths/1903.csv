@@ -1,0 +1,133 @@
+Month,Year,Region,Total Deaths,Pulmonary Tuberculosis,"Other Forms, Tuberculosis",Typhoid Fever,Diptheria
+January,1903,Indiana (statewide),2910,302,39,64,53
+January,1903,Northern counties,968,100,16,17,18
+January,1903,Central counties,1233,118,16,25,28
+January,1903,Southern counties,709,84,7,22,7
+January,1903,Urban,1226,122,17,31,33
+January,1903,Rural,1684,180,22,33,20
+January,1903,"Cities, class 1",344,33,2,7,7
+January,1903,"Cities, class 2",161,13,2,4,8
+January,1903,"Cities, class 3",307,28,8,8,6
+January,1903,"Cities, class 4",234,26,4,9,7
+January,1903,"Cities, class 5",180,22,1,3,5
+February,1903,Indiana (statewide),2677,305,37,49,53
+February,1903,Northern counties,839,96,12,16,11
+February,1903,Central counties,1171,114,17,21,29
+February,1903,Southern counties,667,95,8,12,13
+February,1903,Urban,1146,129,11,23,22
+February,1903,Rural,1531,176,26,26,31
+February,1903,"Cities, class 1",341,45,2,9,2
+February,1903,"Cities, class 2",162,17,4,0,7
+February,1903,"Cities, class 3",294,30,4,4,8
+February,1903,"Cities, class 4",189,20,1,5,2
+February,1903,"Cities, class 5",160,17,0,5,3
+March,1903,Indiana (statewide),2959,384,48,55,25
+March,1903,Northern counties,976,114,8,15,7
+March,1903,Central counties,1262,148,28,22,8
+March,1903,Southern counties,721,122,12,18,10
+March,1903,Urban,1318,158,25,29,8
+March,1903,Rural,1641,226,23,26,17
+March,1903,"Cities, class 1",374,44,6,7,5
+March,1903,"Cities, class 2",161,22,3,5,3
+March,1903,"Cities, class 3",346,39,7,11,0
+March,1903,"Cities, class 4",246,29,7,6,0
+March,1903,"Cities, class 5",191,24,2,0,0
+April,1903,Indiana (statewide),2637,341,46,44,18
+April,1903,Northern counties,910,86,17,12,8
+April,1903,Central counties,1057,158,15,19,7
+April,1903,Southern counties,670,97,14,13,3
+April,1903,Urban,1214,142,21,21,10
+April,1903,Rural,1423,199,25,23,8
+April,1903,"Cities, class 1",317,45,7,5,0
+April,1903,"Cities, class 2",194,19,4,3,4
+April,1903,"Cities, class 3",299,33,5,10,4
+April,1903,"Cities, class 4",226,29,1,0,1
+April,1903,"Cities, class 5",178,16,4,3,1
+May,1903,Indiana (statewide),2421,325,41,38,12
+May,1903,Northern counties,784,89,10,13,5
+May,1903,Central counties,1041,135,20,13,4
+May,1903,Southern counties,596,101,11,12,3
+May,1903,Urban,1068,134,17,19,5
+May,1903,Rural,1353,191,24,19,7
+May,1903,"Cities, class 1",279,29,4,6,2
+May,1903,"Cities, class 2",160,25,0,4,1
+May,1903,"Cities, class 3",293,40,4,5,0
+May,1903,"Cities, class 4",179,21,5,3,2
+May,1903,"Cities, class 5",157,19,4,1,0
+June,1903,Indiana (statewide),2265,306,41,42,15
+June,1903,Northern counties,725,85,13,15,9
+June,1903,Central counties,1011,144,20,17,6
+June,1903,Southern counties,529,77,8,10,0
+June,1903,Urban,1010,125,13,20,9
+June,1903,Rural,1255,181,28,22,6
+June,1903,"Cities, class 1",258,34,2,3,1
+June,1903,"Cities, class 2",179,29,4,2,1
+June,1903,"Cities, class 3",271,35,4,10,5
+June,1903,"Cities, class 4",175,14,2,2,1
+June,1903,"Cities, class 5",127,13,1,3,1
+July,1903,Indiana (statewide),2765,315,47,63,13
+July,1903,Northern counties,762,74,10,11,6
+July,1903,Central counties,1212,144,23,23,5
+July,1903,Southern counties,791,97,14,29,2
+July,1903,Urban,1219,134,26,29,7
+July,1903,Rural,1546,181,21,34,6
+July,1903,"Cities, class 1",395,36,7,8,2
+July,1903,"Cities, class 2",167,17,1,3,3
+July,1903,"Cities, class 3",294,30,8,5,1
+July,1903,"Cities, class 4",225,33,5,11,0
+July,1903,"Cities, class 5",138,18,5,2,1
+August,1903,Indiana (statewide),2933,259,48,108,21
+August,1903,Northern counties,988,76,12,30,9
+August,1903,Central counties,1240,114,22,38,8
+August,1903,Southern counties,705,69,14,40,4
+August,1903,Urban,1266,100,23,41,11
+August,1903,Rural,1667,159,25,67,10
+August,1903,"Cities, class 1",330,32,8,12,1
+August,1903,"Cities, class 2",180,15,4,3,1
+August,1903,"Cities, class 3",349,23,4,14,4
+August,1903,"Cities, class 4",234,17,5,8,4
+August,1903,"Cities, class 5",173,13,2,4,1
+September,1903,Indiana (statewide),2766,307,40,166,35
+September,1903,Northern counties,905,78,14,41,10
+September,1903,Central counties,1188,136,14,77,9
+September,1903,Southern counties,673,93,12,48,16
+September,1903,Urban,1158,114,16,59,19
+September,1903,Rural,1608,193,24,107,16
+September,1903,"Cities, class 1",308,40,3,23,3
+September,1903,"Cities, class 2",156,10,2,8,4
+September,1903,"Cities, class 3",308,29,5,16,10
+September,1903,"Cities, class 4",205,18,4,4,2
+September,1903,"Cities, class 5",181,17,2,8,0
+October,1903,Indiana (statewide),2572,256,41,160,63
+October,1903,Northern counties,864,83,13,50,27
+October,1903,Central counties,1064,99,23,64,14
+October,1903,Southern counties,644,74,5,46,22
+October,1903,Urban,1120,112,22,59,35
+October,1903,Rural,1452,144,19,101,28
+October,1903,"Cities, class 1",290,41,5,15,4
+October,1903,"Cities, class 2",178,11,2,7,10
+October,1903,"Cities, class 3",292,30,5,14,17
+October,1903,"Cities, class 4",189,13,7,13,1
+October,1903,"Cities, class 5",171,17,3,10,3
+November,1903,Indiana (statewide),2518,279,38,105,68
+November,1903,Northern counties,814,74,14,36,16
+November,1903,Central counties,1065,109,12,42,31
+November,1903,Southern counties,639,96,12,27,21
+November,1903,Urban,1093,121,18,31,37
+November,1903,Rural,1425,158,20,74,31
+November,1903,"Cities, class 1",310,37,5,8,6
+November,1903,"Cities, class 2",143,13,5,4,6
+November,1903,"Cities, class 3",307,36,5,8,15
+November,1903,"Cities, class 4",176,20,3,4,4
+November,1903,"Cities, class 5",157,15,0,7,6
+December,1903,Indiana (statewide),2848,337,34,65,54
+December,1903,Northern counties,988,90,7,18,23
+December,1903,Central counties,1172,138,21,34,13
+December,1903,Southern counties,688,109,6,13,18
+December,1903,Urban,1309,163,17,30,28
+December,1903,Rural,1539,174,17,35,26
+December,1903,"Cities, class 1",380,49,6,10,4
+December,1903,"Cities, class 2",191,16,3,3,2
+December,1903,"Cities, class 3",347,34,2,6,16
+December,1903,"Cities, class 4",238,41,2,7,2
+December,1903,"Cities, class 5",153,23,4,4,4

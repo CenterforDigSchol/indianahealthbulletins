@@ -1,0 +1,23 @@
+Month,Year,Region,Population,Total Deaths,Pulmonary Tuberculosis,"Other Forms, Tuberculosis",Typhoid Fever,Diptheria,Croup,Scarlet Fever,Measles,Whooping Cough,Pneumonia,"Diarrheal Diseases, Under 5 Years",Cerebro-Spinal Fever,Influenza,Puerperal Septicemia,Cancer,Violence,Smallpox
+September,1905,Indiana (statewide),2648549,3018,255,44,189,29,3,6,0,13,85,318,51,5,14,125,186,0
+September,1905,Northern counties,887832,1038,71,11,67,8,2,0,0,1,27,142,25,2,6,44,61,0
+September,1905,Central counties,1087620,1209,115,20,64,12,0,0,0,8,43,105,13,3,2,50,68,0
+September,1905,Southern counties,673097,771,69,13,58,9,1,6,0,4,15,71,13,0,6,31,57,0
+September,1905,Urban,977812,1256,93,19,79,14,3,1,0,1,51,105,30,4,7,50,77,0
+September,1905,Rural,1670737,1762,162,25,110,15,0,5,0,12,34,213,21,1,7,75,109,0
+September,1905,"Cities, class 1",260046,322,18,2,13,5,0,0,0,1,18,12,4,0,1,12,24,0
+September,1905,"Cities, class 2",159349,196,15,2,14,4,0,0,0,0,10,23,2,0,2,5,9,0
+September,1905,"Cities, class 3",231707,312,17,6,22,2,1,1,0,0,13,29,16,2,1,15,20,0
+September,1905,"Cities, class 4",196779,249,26,2,15,3,2,0,0,0,8,29,6,1,2,10,16,0
+September,1905,"Cities, class 5",129931,177,17,7,15,0,0,0,0,0,2,12,2,1,1,8,8,0
+February,1909,Indiana (statewide),2730144,2955,290,68,19,18,7,12,12,38,423,40,15,74,10,139,160,0
+February,1909,Northern counties,920585,880,71,17,8,8,3,9,6,8,133,17,3,12,2,50,54,0
+February,1909,Central counties,1087413,1404,128,37,8,4,3,3,6,22,175,15,7,28,5,64,69,0
+February,1909,Southern counties,722146,671,91,14,3,6,1,0,0,8,115,8,5,34,3,25,37,0
+February,1909,Urban,1048005,1262,142,36,12,9,1,5,5,16,161,19,8,24,4,65,77,0
+February,1909,Rural,1639382,1693,148,32,7,9,6,7,7,22,262,21,7,50,6,74,83,0
+February,1909,"Cities, class 1",405031,469,61,13,3,5,0,1,0,8,53,5,0,7,3,27,37,0
+February,1909,"Cities, class 2",43599,78,7,3,1,0,0,2,2,0,6,2,0,0,0,1,2,0
+February,1909,"Cities, class 3",290545,328,33,9,6,2,0,1,1,4,52,5,6,8,1,14,18,0
+February,1909,"Cities, class 4",174454,201,21,4,1,0,0,0,2,0,26,6,1,2,0,13,10,0
+February,1909,"Cities, class 5",134376,186,20,7,1,2,1,1,0,4,24,1,1,7,0,10,10,0

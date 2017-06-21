@@ -1,0 +1,122 @@
+Month,Year,Region,Total Deaths,Pulmonary Tuberculosis,"Other Forms, Tuberculosis",Typhoid Fever,Diptheria
+January,1909,Indiana (statewide),2744,301,51,36,34
+January,1909,Northern counties,951,77,16,5,7
+January,1909,Central counties,1115,127,23,14,16
+January,1909,Southern counties,678,97,12,17,11
+January,1909,Urban,1290,143,24,12,18
+January,1909,Rural,1454,158,27,24,16
+January,1909,"Cities, class 1",484,62,13,4,8
+January,1909,"Cities, class 2",48,9,1,0,0
+January,1909,"Cities, class 3",375,37,3,4,5
+January,1909,"Cities, class 4",203,13,1,0,2
+January,1909,"Cities, class 5",180,22,6,4,3
+March,1909,Indiana (statewide),3444,339,71,31,16
+March,1909,Northern counties,1159,84,20,8,5
+March,1909,Central counties,1470,138,39,15,8
+March,1909,Southern counties,815,117,12,8,3
+March,1909,Urban,1600,171,38,16,8
+March,1909,Rural,1844,168,33,15,8
+March,1909,"Cities, class 1",613,75,11,7,3
+March,1909,"Cities, class 2",79,5,3,1,0
+March,1909,"Cities, class 3",437,38,12,7,1
+March,1909,"Cities, class 4",262,27,7,1,2
+March,1909,"Cities, class 5",209,26,5,0,2
+April,1909,Indiana (statewide),3212,350,77,33,9
+April,1909,Northern counties,1086,103,16,13,3
+April,1909,Central counties,1346,152,40,11,5
+April,1909,Southern counties,780,95,21,9,1
+April,1909,Urban,1463,161,32,24,5
+April,1909,Rural,1749,189,45,9,4
+April,1909,"Cities, class 1",518,64,17,8,1
+April,1909,"Cities, class 2",62,6,1,0,0
+April,1909,"Cities, class 3",431,47,7,13,1
+April,1909,"Cities, class 4",248,24,4,1,1
+April,1909,"Cities, class 5",204,20,3,2,2
+May,1909,Indiana (statewide),2793,329,55,35,5
+May,1909,Northern counties,916,87,20,17,1
+May,1909,Central counties,1236,157,30,5,2
+May,1909,Southern counties,641,85,5,13,2
+May,1909,Urban,1283,159,28,14,4
+May,1909,Rural,1510,170,27,21,1
+May,1909,"Cities, class 1",499,61,16,5,1
+May,1909,"Cities, class 2",55,6,1,0,0
+May,1909,"Cities, class 3",358,45,7,7,1
+May,1909,"Cities, class 4",200,29,1,1,2
+May,1909,"Cities, class 5",171,18,3,1,0
+June,1909,Indiana (statewide),2507,324,65,34,1
+June,1909,Northern counties,771,89,17,13,1
+June,1909,Central counties,1020,143,32,12,0
+June,1909,Southern counties,716,92,16,9,0
+June,1909,Urban,1194,151,25,17,1
+June,1909,Rural,1313,173,40,17,0
+June,1909,"Cities, class 1",474,61,17,9,0
+June,1909,"Cities, class 2",65,2,0,3,0
+June,1909,"Cities, class 3",327,44,7,2,1
+June,1909,"Cities, class 4",167,18,1,2,0
+June,1909,"Cities, class 5",161,26,0,1,0
+July,1909,Indiana (statewide),2973,258,66,78,8
+July,1909,Northern counties,868,56,18,19,3
+July,1909,Central counties,1294,128,30,19,4
+July,1909,Southern counties,811,74,18,40,1
+July,1909,Urban,1336,113,28,38,3
+July,1909,Rural,1637,145,38,40,5
+July,1909,"Cities, class 1",536,59,11,12,1
+July,1909,"Cities, class 2",69,4,2,4,0
+July,1909,"Cities, class 3",382,27,7,13,1
+July,1909,"Cities, class 4",200,14,3,3,1
+July,1909,"Cities, class 5",149,9,5,6,0
+August,1909,Indiana (statewide),3164,272,55,106,17
+August,1909,Northern counties,1023,79,20,22,5
+August,1909,Central counties,1374,121,21,38,2
+August,1909,Southern counties,767,72,14,46,10
+August,1909,Urban,1454,122,24,39,9
+August,1909,Rural,1710,150,31,67,8
+August,1909,"Cities, class 1",549,44,9,12,2
+August,1909,"Cities, class 2",59,2,2,1,0
+August,1909,"Cities, class 3",415,33,4,10,6
+August,1909,"Cities, class 4",226,23,7,6,0
+August,1909,"Cities, class 5",205,20,2,10,1
+September,1909,Indiana (statewide),2660,244,63,132,24
+September,1909,Northern counties,890,69,21,34,5
+September,1909,Central counties,1163,120,30,54,9
+September,1909,Southern counties,607,55,12,44,10
+September,1909,Urban,1195,122,30,58,10
+September,1909,Rural,1465,122,33,74,14
+September,1909,"Cities, class 1",453,55,9,16,6
+September,1909,"Cities, class 2",51,7,1,1,0
+September,1909,"Cities, class 3",335,32,11,19,3
+September,1909,"Cities, class 4",191,15,7,6,1
+September,1909,"Cities, class 5",165,13,2,16,0
+October,1909,Indiana (statewide),2831,251,56,155,77
+October,1909,Northern counties,941,72,11,49,20
+October,1909,Central counties,1176,100,30,63,25
+October,1909,Southern counties,714,79,15,43,32
+October,1909,Urban,1364,123,22,64,39
+October,1909,Rural,1467,128,34,91,38
+October,1909,"Cities, class 1",512,46,9,21,14
+October,1909,"Cities, class 2",74,5,1,5,0
+October,1909,"Cities, class 3",417,35,3,18,18
+October,1909,"Cities, class 4",195,17,2,8,6
+October,1909,"Cities, class 5",166,20,7,12,1
+November,1909,Indiana (statewide),2550,247,44,104,50
+November,1909,Northern counties,772,74,14,17,16
+November,1909,Central counties,1127,103,19,52,19
+November,1909,Southern counties,651,70,11,35,15
+November,1909,Urban,1208,119,24,36,27
+November,1909,Rural,1342,128,20,68,23
+November,1909,"Cities, class 1",477,52,10,12,7
+November,1909,"Cities, class 2",56,11,3,0,1
+November,1909,"Cities, class 3",343,29,4,12,12
+November,1909,"Cities, class 4",199,14,4,8,6
+November,1909,"Cities, class 5",133,13,3,4,1
+December,1909,Indiana (statewide),2831,267,38,52,46
+December,1909,Northern counties,878,83,9,14,9
+December,1909,Central counties,1241,109,19,21,16
+December,1909,Southern counties,712,75,10,17,21
+December,1909,Urban,1347,138,20,21,22
+December,1909,Rural,1484,129,18,31,24
+December,1909,"Cities, class 1",537,51,7,8,8
+December,1909,"Cities, class 2",62,9,0,1,1
+December,1909,"Cities, class 3",387,34,8,7,7
+December,1909,"Cities, class 4",202,25,2,3,4
+December,1909,"Cities, class 5",159,19,3,2,2

@@ -1,0 +1,133 @@
+Month,Year,Region,Total Deaths,Pulmonary Tuberculosis,"Other Forms, Tuberculosis",Typhoid Fever,Diptheria
+January,1906,Indiana (statewide),2998,355,57,33,25
+January,1906,Northern counties,885,79,10,11,1
+January,1906,Central counties,1306,165,27,12,10
+January,1906,Southern counties,807,111,20,10,14
+January,1906,Urban,1357,155,28,12,10
+January,1906,Rural,1641,200,29,21,15
+January,1906,"Cities, class 1",371,35,9,4,3
+January,1906,"Cities, class 2",207,24,4,1,1
+January,1906,"Cities, class 3",338,45,9,2,2
+January,1906,"Cities, class 4",283,30,3,5,2
+January,1906,"Cities, class 5",158,21,3,0,2
+February,1906,Indiana (statewide),2811,325,47,29,18
+February,1906,Northern counties,868,81,14,8,3
+February,1906,Central counties,1201,152,20,11,8
+February,1906,Southern counties,742,92,13,10,7
+February,1906,Urban,1296,153,26,17,6
+February,1906,Rural,1515,172,21,12,12
+February,1906,"Cities, class 1",338,39,6,3,2
+February,1906,"Cities, class 2",214,27,5,2,1
+February,1906,"Cities, class 3",296,37,5,6,1
+February,1906,"Cities, class 4",284,35,7,6,2
+February,1906,"Cities, class 5",164,15,3,0,0
+March,1906,Indiana (statewide),3230,343,63,37,15
+March,1906,Northern counties,1006,86,9,6,3
+March,1906,Central counties,1374,147,35,19,5
+March,1906,Southern counties,850,110,19,12,7
+March,1906,Urban,1440,133,25,17,10
+March,1906,Rural,1790,210,38,20,5
+March,1906,"Cities, class 1",404,23,9,5,5
+March,1906,"Cities, class 2",243,30,3,1,0
+March,1906,"Cities, class 3",325,28,3,6,0
+March,1906,"Cities, class 4",295,32,5,5,4
+March,1906,"Cities, class 5",173,20,5,0,1
+April,1906,Indiana (statewide),2976,359,52,34,11
+April,1906,Northern counties,954,97,12,10,6
+April,1906,Central counties,1285,159,24,10,1
+April,1906,Southern counties,737,103,16,14,4
+April,1906,Urban,1346,150,24,21,6
+April,1906,Rural,1630,209,28,13,5
+April,1906,"Cities, class 1",355,39,11,4,1
+April,1906,"Cities, class 2",272,29,6,4,0
+April,1906,"Cities, class 3",290,29,5,9,0
+April,1906,"Cities, class 4",250,36,1,1,5
+April,1906,"Cities, class 5",179,17,1,3,0
+May,1906,Indiana (statewide),2665,318,58,40,8
+May,1906,Northern counties,897,104,21,9,3
+May,1906,Central counties,1110,132,22,15,3
+May,1906,Southern counties,658,82,15,16,2
+May,1906,Urban,1264,144,31,22,5
+May,1906,Rural,1401,174,27,18,3
+May,1906,"Cities, class 1",355,39,6,9,0
+May,1906,"Cities, class 2",237,26,8,1,1
+May,1906,"Cities, class 3",275,38,5,4,3
+May,1906,"Cities, class 4",241,27,9,4,1
+May,1906,"Cities, class 5",156,14,3,4,0
+June,1906,Indiana (statewide),2322,275,42,29,12
+June,1906,Northern counties,759,80,8,8,9
+June,1906,Central counties,1005,116,21,17,1
+June,1906,Southern counties,558,79,13,4,2
+June,1906,Urban,1090,116,23,16,9
+June,1906,Rural,1232,159,19,13,3
+June,1906,"Cities, class 1",307,32,7,8,1
+June,1906,"Cities, class 2",208,25,5,1,3
+June,1906,"Cities, class 3",222,25,5,4,5
+June,1906,"Cities, class 4",230,21,3,2,0
+June,1906,"Cities, class 5",123,13,3,1,0
+July,1906,Indiana (statewide),2713,274,45,44,9
+July,1906,Northern counties,758,64,13,9,5
+July,1906,Central counties,1182,114,16,17,1
+July,1906,Southern counties,773,96,16,18,3
+July,1906,Urban,1264,115,18,18,6
+July,1906,Rural,1449,159,27,26,3
+July,1906,"Cities, class 1",393,38,8,8,0
+July,1906,"Cities, class 2",216,13,2,2,1
+July,1906,"Cities, class 3",262,26,3,3,0
+July,1906,"Cities, class 4",238,20,1,3,2
+July,1906,"Cities, class 5",155,18,4,2,3
+August,1906,Indiana (statewide),3000,297,54,93,11
+August,1906,Northern counties,939,98,12,23,7
+August,1906,Central counties,1294,119,29,41,3
+August,1906,Southern counties,767,80,13,29,1
+August,1906,Urban,1334,118,17,37,6
+August,1906,Rural,1666,179,37,56,5
+August,1906,"Cities, class 1",380,34,7,9,0
+August,1906,"Cities, class 2",247,29,1,7,4
+August,1906,"Cities, class 3",279,22,2,12,1
+August,1906,"Cities, class 4",260,15,3,3,0
+August,1906,"Cities, class 5",168,18,4,6,1
+September,1906,Indiana (statewide),3018,240,51,143,31
+September,1906,Northern counties,969,70,8,38,16
+September,1906,Central counties,1288,106,28,62,12
+September,1906,Southern counties,761,64,15,43,3
+September,1906,Urban,1355,105,26,53,18
+September,1906,Rural,1663,135,25,90,13
+September,1906,"Cities, class 1",337,35,7,11,0
+September,1906,"Cities, class 2",247,11,5,16,5
+September,1906,"Cities, class 3",349,24,6,12,8
+September,1906,"Cities, class 4",244,21,3,9,4
+September,1906,"Cities, class 5",178,14,5,5,1
+October,1906,Indiana (statewide),2847,267,56,150,64
+October,1906,Northern counties,923,78,18,39,23
+October,1906,Central counties,1187,116,21,66,28
+October,1906,Southern counties,737,73,17,45,13
+October,1906,Urban,1370,123,32,51,40
+October,1906,Rural,1477,144,24,99,24
+October,1906,"Cities, class 1",332,27,6,9,6
+October,1906,"Cities, class 2",207,18,4,9,10
+October,1906,"Cities, class 3",377,36,8,12,10
+October,1906,"Cities, class 4",258,22,7,11,9
+October,1906,"Cities, class 5",196,22,7,10,5
+November,1906,Indiana (statewide),2908,284,39,135,79
+November,1906,Northern counties,948,83,12,37,33
+November,1906,Central counties,1156,122,15,51,27
+November,1906,Southern counties,804,79,12,47,19
+November,1906,Urban,1375,138,22,52,43
+November,1906,Rural,1533,146,17,83,36
+November,1906,"Cities, class 1",361,41,6,14,6
+November,1906,"Cities, class 2",227,25,2,2,15
+November,1906,"Cities, class 3",351,29,5,22,11
+November,1906,"Cities, class 4",277,29,7,6,5
+November,1906,"Cities, class 5",159,14,2,8,6
+December,1906,Indiana (statewide),2956,293,36,79,60
+December,1906,Northern counties,948,80,8,25,29
+December,1906,Central counties,1264,127,18,24,19
+December,1906,Southern counties,744,86,10,30,12
+December,1906,Urban,1309,123,16,34,38
+December,1906,Rural,1647,167,20,45,22
+December,1906,"Cities, class 1",385,42,6,12,11
+December,1906,"Cities, class 2",240,19,2,5,8
+December,1906,"Cities, class 3",297,28,3,4,9
+December,1906,"Cities, class 4",223,16,4,6,8
+December,1906,"Cities, class 5",164,18,1,7,2

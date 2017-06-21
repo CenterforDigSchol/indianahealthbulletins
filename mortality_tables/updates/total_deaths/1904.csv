@@ -1,0 +1,133 @@
+Month,Year,Region,Total Deaths,Pulmonary Tuberculosis,"Other Forms, Tuberculosis",Typhoid Fever,Diptheria
+January,1904,Indiana (statewide),3177,361,37,38,45
+January,1904,Northern counties,984,90,13,13,15
+January,1904,Central counties,1383,164,14,15,15
+January,1904,Southern counties,810,107,10,10,15
+January,1904,Urban,1369,143,20,16,23
+January,1904,Rural,1808,218,17,22,22
+January,1904,"Cities, class 1",393,43,7,6,5
+January,1904,"Cities, class 2",176,18,2,1,4
+January,1904,"Cities, class 3",360,41,4,6,7
+January,1904,"Cities, class 4",247,20,4,1,3
+January,1904,"Cities, class 5",193,21,3,2,4
+February,1904,Indiana (statewide),3477,365,41,60,32
+February,1904,Northern counties,1106,83,11,22,15
+February,1904,Central counties,1421,151,19,22,6
+February,1904,Southern counties,950,131,11,16,11
+February,1904,Urban,1488,156,22,27,11
+February,1904,Rural,1989,209,19,33,21
+February,1904,"Cities, class 1",360,36,6,6,1
+February,1904,"Cities, class 2",202,13,6,5,4
+February,1904,"Cities, class 3",377,44,3,6,2
+February,1904,"Cities, class 4",306,35,2,5,2
+February,1904,"Cities, class 5",243,28,5,5,2
+March,1904,Indiana (statewide),3860,471,61,55,23
+March,1904,Northern counties,1184,126,15,18,3
+March,1904,Central counties,1667,188,25,21,13
+March,1904,Southern counties,1009,157,21,16,7
+March,1904,Urban,1575,189,28,29,11
+March,1904,Rural,2285,282,33,26,12
+March,1904,"Cities, class 1",404,49,6,12,2
+March,1904,"Cities, class 2",216,22,8,1,2
+March,1904,"Cities, class 3",395,41,4,5,6
+March,1904,"Cities, class 4",325,48,6,8,1
+March,1904,"Cities, class 5",235,29,4,3,0
+April,1904,Indiana (statewide),3322,385,50,56,30
+April,1904,Northern counties,1030,88,12,16,12
+April,1904,Central counties,1404,169,22,29,8
+April,1904,Southern counties,888,128,16,11,10
+April,1904,Urban,1450,164,32,32,15
+April,1904,Rural,1872,221,18,24,15
+April,1904,"Cities, class 1",398,51,11,10,3
+April,1904,"Cities, class 2",207,14,5,2,2
+April,1904,"Cities, class 3",375,40,8,10,7
+April,1904,"Cities, class 4",288,31,6,7,1
+April,1904,"Cities, class 5",182,28,2,3,2
+May,1904,Indiana (statewide),2971,415,56,49,20
+May,1904,Northern counties,917,103,14,7,4
+May,1904,Central counties,1286,181,30,34,10
+May,1904,Southern counties,768,131,12,8,6
+May,1904,Urban,1386,175,22,34,13
+May,1904,Rural,1585,240,34,15,7
+May,1904,"Cities, class 1",316,48,2,23,8
+May,1904,"Cities, class 2",181,14,1,0,0
+May,1904,"Cities, class 3",333,46,9,6,3
+May,1904,"Cities, class 4",246,37,6,2,2
+May,1904,"Cities, class 5",210,30,4,3,0
+June,1904,Indiana (statewide),2203,317,44,49,15
+June,1904,Northern counties,651,90,8,11,5
+June,1904,Central counties,951,135,26,29,6
+June,1904,Southern counties,601,92,10,9,4
+June,1904,Urban,1029,134,17,35,12
+June,1904,Rural,1174,183,27,14,3
+June,1904,"Cities, class 1",285,42,5,16,4
+June,1904,"Cities, class 2",148,14,6,2,0
+June,1904,"Cities, class 3",279,32,4,10,8
+June,1904,"Cities, class 4",198,28,1,4,0
+June,1904,"Cities, class 5",119,18,1,3,0
+July,1904,Indiana (statewide),2772,346,44,68,8
+July,1904,Northern counties,792,91,16,11,4
+July,1904,Central counties,1160,147,17,36,3
+July,1904,Southern counties,820,108,11,21,1
+July,1904,Urban,1262,147,15,38,5
+July,1904,Rural,1510,199,29,30,3
+July,1904,"Cities, class 1",398,40,4,20,1
+July,1904,"Cities, class 2",166,13,1,3,0
+July,1904,"Cities, class 3",293,43,4,7,0
+July,1904,"Cities, class 4",237,23,3,8,2
+July,1904,"Cities, class 5",168,28,3,0,2
+August,1904,Indiana (statewide),2980,303,61,100,14
+August,1904,Northern counties,888,91,13,18,4
+August,1904,Central counties,1257,127,25,47,1
+August,1904,Southern counties,835,85,23,35,9
+August,1904,Urban,1292,124,27,42,7
+August,1904,Rural,1688,179,34,58,7
+August,1904,"Cities, class 1",329,25,7,19,3
+August,1904,"Cities, class 2",160,12,5,4,1
+August,1904,"Cities, class 3",332,43,7,11,0
+August,1904,"Cities, class 4",285,21,4,5,3
+August,1904,"Cities, class 5",186,23,4,3,0
+September,1904,Indiana (statewide),2658,287,44,137,12
+September,1904,Northern counties,884,90,10,35,3
+September,1904,Central counties,1152,117,27,63,7
+September,1904,Southern counties,622,80,7,39,2
+September,1904,Urban,1192,124,16,63,7
+September,1904,Rural,1466,163,28,74,5
+September,1904,"Cities, class 1",312,36,3,13,2
+September,1904,"Cities, class 2",184,13,3,9,1
+September,1904,"Cities, class 3",298,30,3,15,4
+September,1904,"Cities, class 4",248,31,6,18,0
+September,1904,"Cities, class 5",150,14,1,8,0
+October,1904,Indiana (statewide),2702,292,42,164,17
+October,1904,Northern counties,860,83,10,32,7
+October,1904,Central counties,1133,119,19,76,6
+October,1904,Southern counties,709,90,13,56,4
+October,1904,Urban,1211,130,22,65,9
+October,1904,Rural,1491,162,20,99,8
+October,1904,"Cities, class 1",283,27,7,12,3
+October,1904,"Cities, class 2",182,18,3,6,3
+October,1904,"Cities, class 3",313,34,7,18,3
+October,1904,"Cities, class 4",270,26,2,18,0
+October,1904,"Cities, class 5",163,25,3,11,0
+November,1904,Indiana (statewide),2566,306,31,141,30
+November,1904,Northern counties,744,75,10,34,4
+November,1904,Central counties,1122,142,14,61,11
+November,1904,Southern counties,700,89,7,46,15
+November,1904,Urban,1126,128,14,60,14
+November,1904,Rural,1440,178,17,81,16
+November,1904,"Cities, class 1",287,32,5,16,8
+November,1904,"Cities, class 2",147,12,0,8,2
+November,1904,"Cities, class 3",316,38,5,18,2
+November,1904,"Cities, class 4",216,23,2,13,1
+November,1904,"Cities, class 5",160,23,2,5,1
+December,1904,Indiana (statewide),2858,332,36,67,33
+December,1904,Northern counties,881,89,7,13,7
+December,1904,Central counties,1257,148,16,25,16
+December,1904,Southern counties,720,95,13,29,10
+December,1904,Urban,1246,145,13,27,17
+December,1904,Rural,1612,187,23,40,16
+December,1904,"Cities, class 1",336,49,3,9,6
+December,1904,"Cities, class 2",196,22,2,5,2
+December,1904,"Cities, class 3",304,31,2,4,1
+December,1904,"Cities, class 4",238,22,2,4,6
+December,1904,"Cities, class 5",172,21,4,5,2

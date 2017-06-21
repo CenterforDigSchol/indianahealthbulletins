@@ -1,0 +1,122 @@
+Month,Year,Region,Total Deaths,Pulmonary Tuberculosis,"Other Forms, Tuberculosis",Typhoid Fever,Diptheria
+January,1905,Indiana (statewide),3309,362,31,50,29
+January,1905,Northern counties,994,83,10,19,10
+January,1905,Central counties,1423,164,16,15,4
+January,1905,Southern counties,892,115,5,16,15
+January,1905,Urban,1364,170,17,20,12
+January,1905,Rural,1945,192,14,30,17
+January,1905,"Cities, class 1",337,43,2,3,4
+January,1905,"Cities, class 2",211,17,4,5,3
+January,1905,"Cities, class 3",370,52,5,4,2
+January,1905,"Cities, class 4",256,33,6,4,3
+January,1905,"Cities, class 5",190,25,0,4,0
+February,1905,Indiana (statewide),3723,381,29,32,21
+February,1905,Northern counties,1115,103,3,5,4
+February,1905,Central counties,1568,173,14,18,7
+February,1905,Southern counties,1040,105,12,9,10
+February,1905,Urban,1512,157,15,15,13
+February,1905,Rural,2211,224,14,17,8
+February,1905,"Cities, class 1",385,36,3,5,6
+February,1905,"Cities, class 2",221,20,1,0,2
+February,1905,"Cities, class 3",403,35,3,6,1
+February,1905,"Cities, class 4",298,35,8,2,3
+February,1905,"Cities, class 5",205,31,0,2,1
+March,1905,Indiana (statewide),3656,399,43,30,25
+March,1905,Northern counties,1184,96,12,10,8
+March,1905,Central counties,1558,174,22,10,5
+March,1905,Southern counties,914,129,9,10,12
+March,1905,Urban,1483,167,27,18,14
+March,1905,Rural,2173,232,16,12,11
+March,1905,"Cities, class 1",372,50,6,7,8
+March,1905,"Cities, class 2",221,20,4,2,2
+March,1905,"Cities, class 3",366,34,9,4,2
+March,1905,"Cities, class 4",307,38,5,3,1
+March,1905,"Cities, class 5",217,25,3,2,1
+April,1905,Indiana (statewide),2639,344,46,27,11
+April,1905,Northern counties,789,85,9,7,5
+April,1905,Central counties,1140,135,23,12,3
+April,1905,Southern counties,710,124,14,8,3
+April,1905,Urban,1185,151,26,16,6
+April,1905,Rural,1454,193,20,11,5
+April,1905,"Cities, class 1",325,43,12,7,1
+April,1905,"Cities, class 2",177,15,1,3,0
+April,1905,"Cities, class 3",324,45,6,1,2
+April,1905,"Cities, class 4",208,20,5,4,1
+April,1905,"Cities, class 5",151,28,2,1,2
+May,1905,Indiana (statewide),2556,322,41,32,10
+May,1905,Northern counties,863,93,10,10,3
+May,1905,Central counties,1067,129,17,13,4
+May,1905,Southern counties,626,100,14,9,3
+May,1905,Urban,1138,145,22,18,7
+May,1905,Rural,1418,177,19,14,3
+May,1905,"Cities, class 1",315,43,7,4,1
+May,1905,"Cities, class 2",206,23,2,7,0
+May,1905,"Cities, class 3",282,35,4,4,3
+May,1905,"Cities, class 4",190,30,6,1,2
+May,1905,"Cities, class 5",145,14,3,2,1
+June,1905,Indiana (statewide),2482,320,34,45,8
+June,1905,Northern counties,771,73,9,12,3
+June,1905,Central counties,1031,133,16,23,5
+June,1905,Southern counties,680,114,9,10,0
+June,1905,Urban,1088,138,15,22,8
+June,1905,Rural,1394,182,19,23,0
+June,1905,"Cities, class 1",303,44,5,2,0
+June,1905,"Cities, class 2",202,19,2,2,4
+June,1905,"Cities, class 3",251,24,2,12,2
+June,1905,"Cities, class 4",196,29,2,5,1
+June,1905,"Cities, class 5",136,22,4,1,1
+July,1905,Indiana (statewide),2774,286,35,62,15
+July,1905,Northern counties,781,67,7,9,8
+July,1905,Central counties,1266,136,19,27,5
+July,1905,Southern counties,727,83,9,26,2
+July,1905,Urban,1251,120,16,26,6
+July,1905,Rural,1523,166,19,36,9
+July,1905,"Cities, class 1",374,43,5,11,0
+July,1905,"Cities, class 2",232,14,2,1,1
+July,1905,"Cities, class 3",282,30,3,9,1
+July,1905,"Cities, class 4",226,20,3,2,3
+July,1905,"Cities, class 5",137,13,3,3,1
+August,1905,Indiana (statewide),3070,292,48,125,12
+August,1905,Northern counties,994,82,13,33,4
+August,1905,Central counties,1302,115,21,50,7
+August,1905,Southern counties,774,95,14,42,1
+August,1905,Urban,1336,116,19,55,8
+August,1905,Rural,1737,176,29,70,4
+August,1905,"Cities, class 1",337,32,4,17,4
+August,1905,"Cities, class 2",217,19,3,6,2
+August,1905,"Cities, class 3",327,23,4,12,1
+August,1905,"Cities, class 4",284,24,2,11,0
+August,1905,"Cities, class 5",171,18,6,9,1
+October,1905,Indiana (statewide),2681,252,55,152,76
+October,1905,Northern counties,849,60,17,54,18
+October,1905,Central counties,1103,114,23,53,23
+October,1905,Southern counties,729,78,15,45,35
+October,1905,Urban,1195,102,32,54,43
+October,1905,Rural,1486,150,23,98,33
+October,1905,"Cities, class 1",304,27,5,8,8
+October,1905,"Cities, class 2",188,16,5,10,7
+October,1905,"Cities, class 3",261,15,8,14,3
+October,1905,"Cities, class 4",275,27,7,14,21
+October,1905,"Cities, class 5",167,17,7,8,4
+November,1905,Indiana (statewide),2687,300,44,101,33
+November,1905,Northern counties,850,70,7,32,5
+November,1905,Central counties,1137,134,29,32,14
+November,1905,Southern counties,700,96,8,37,14
+November,1905,Urban,1205,132,16,40,20
+November,1905,Rural,1482,168,28,61,13
+November,1905,"Cities, class 1",339,35,6,6,8
+November,1905,"Cities, class 2",205,27,1,6,3
+November,1905,"Cities, class 3",285,30,2,13,2
+November,1905,"Cities, class 4",215,24,5,11,5
+November,1905,"Cities, class 5",161,16,2,4,2
+December,1905,Indiana (statewide),2657,298,38,66,45
+December,1905,Northern counties,852,61,7,20,14
+December,1905,Central counties,1115,144,18,26,14
+December,1905,Southern counties,690,93,13,20,17
+December,1905,Urban,1253,143,23,29,17
+December,1905,Rural,1404,155,15,37,28
+December,1905,"Cities, class 1",342,44,8,5,4
+December,1905,"Cities, class 2",235,17,4,4,7
+December,1905,"Cities, class 3",290,32,6,10,2
+December,1905,"Cities, class 4",236,25,2,7,4
+December,1905,"Cities, class 5",150,25,3,3,0

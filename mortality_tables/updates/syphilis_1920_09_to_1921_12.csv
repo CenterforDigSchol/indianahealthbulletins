@@ -1,0 +1,177 @@
+Month,Year,Region,Syphilis
+September,1920,Indiana (statewide),12
+September,1920,Northern counties,6
+September,1920,Central counties,2
+September,1920,Southern counties,4
+September,1920,"Urban, population over 5,000",7
+September,1920,"Rural, population under 5,000",5
+September,1920,"Cities, population over 100,000",0
+September,1920,"Cities, population 45,000 to 100,000",3
+September,1920,"Cities, population 20,000 to 45,000",4
+September,1920,"Cities, population 10,000 to 20,000",0
+September,1920,"Cities, population 5,000 to 10,000",0
+October,1920,Indiana (statewide),12
+October,1920,Northern counties,1
+October,1920,Central counties,6
+October,1920,Southern counties,5
+October,1920,"Urban, population over 5,000",5
+October,1920,"Rural, population under 5,000",7
+October,1920,"Cities, population over 100,000",2
+October,1920,"Cities, population 45,000 to 100,000",1
+October,1920,"Cities, population 20,000 to 45,000",3
+October,1920,"Cities, population 10,000 to 20,000",0
+October,1920,"Cities, population 5,000 to 10,000",0
+November,1920,Indiana (statewide),17
+November,1920,Northern counties,3
+November,1920,Central counties,7
+November,1920,Southern counties,7
+November,1920,"Urban, population over 5,000",11
+November,1920,"Rural, population under 5,000",6
+November,1920,"Cities, population over 100,000",2
+November,1920,"Cities, population 45,000 to 100,000",2
+November,1920,"Cities, population 20,000 to 45,000",4
+November,1920,"Cities, population 10,000 to 20,000",2
+November,1920,"Cities, population 5,000 to 10,000",1
+December,1920,Indiana (statewide),17
+December,1920,Northern counties,5
+December,1920,Central counties,9
+December,1920,Southern counties,3
+December,1920,"Urban, population over 5,000",10
+December,1920,"Rural, population under 5,000",7
+December,1920,"Cities, population over 100,000",2
+December,1920,"Cities, population 45,000 to 100,000",2
+December,1920,"Cities, population 20,000 to 45,000",5
+December,1920,"Cities, population 10,000 to 20,000",1
+December,1920,"Cities, population 5,000 to 10,000",0
+January,1921,Indiana (statewide),9
+January,1921,Northern counties,2
+January,1921,Central counties,6
+January,1921,Southern counties,1
+January,1921,"Urban, population over 5,000",4
+January,1921,"Rural, population under 5,000",5
+January,1921,"Cities, population over 100,000",2
+January,1921,"Cities, population 45,000 to 100,000",1
+January,1921,"Cities, population 20,000 to 45,000",1
+January,1921,"Cities, population 10,000 to 20,000",0
+January,1921,"Cities, population 5,000 to 10,000",0
+February,1921,Indiana (statewide),18
+February,1921,Northern counties,5
+February,1921,Central counties,11
+February,1921,Southern counties,2
+February,1921,"Urban, population over 5,000",8
+February,1921,"Rural, population under 5,000",10
+February,1921,"Cities, population over 100,000",4
+February,1921,"Cities, population 45,000 to 100,000",2
+February,1921,"Cities, population 20,000 to 45,000",1
+February,1921,"Cities, population 10,000 to 20,000",0
+February,1921,"Cities, population 5,000 to 10,000",1
+March,1921,Indiana (statewide),17
+March,1921,Northern counties,5
+March,1921,Central counties,5
+March,1921,Southern counties,7
+March,1921,"Urban, population over 5,000",8
+March,1921,"Rural, population under 5,000",9
+March,1921,"Cities, population over 100,000",1
+March,1921,"Cities, population 45,000 to 100,000",1
+March,1921,"Cities, population 20,000 to 45,000",2
+March,1921,"Cities, population 10,000 to 20,000",3
+March,1921,"Cities, population 5,000 to 10,000",1
+April,1921,Indiana (statewide),10
+April,1921,Northern counties,3
+April,1921,Central counties,5
+April,1921,Southern counties,2
+April,1921,"Urban, population over 5,000",5
+April,1921,"Rural, population under 5,000",5
+April,1921,"Cities, population over 100,000",2
+April,1921,"Cities, population 45,000 to 100,000",0
+April,1921,"Cities, population 20,000 to 45,000",1
+April,1921,"Cities, population 10,000 to 20,000",2
+April,1921,"Cities, population 5,000 to 10,000",0
+May,1921,Indiana (statewide),20
+May,1921,Northern counties,8
+May,1921,Central counties,5
+May,1921,Southern counties,7
+May,1921,"Urban, population over 5,000",10
+May,1921,"Rural, population under 5,000",10
+May,1921,"Cities, population over 100,000",2
+May,1921,"Cities, population 45,000 to 100,000",4
+May,1921,"Cities, population 20,000 to 45,000",0
+May,1921,"Cities, population 10,000 to 20,000",1
+May,1921,"Cities, population 5,000 to 10,000",3
+June,1921,Indiana (statewide),18
+June,1921,Northern counties,5
+June,1921,Central counties,9
+June,1921,Southern counties,4
+June,1921,"Urban, population over 5,000",12
+June,1921,"Rural, population under 5,000",6
+June,1921,"Cities, population over 100,000",5
+June,1921,"Cities, population 45,000 to 100,000",2
+June,1921,"Cities, population 20,000 to 45,000",3
+June,1921,"Cities, population 10,000 to 20,000",2
+June,1921,"Cities, population 5,000 to 10,000",0
+July,1921,Indiana (statewide),22
+July,1921,Northern counties,7
+July,1921,Central counties,13
+July,1921,Southern counties,2
+July,1921,"Urban, population over 5,000",12
+July,1921,"Rural, population under 5,000",10
+July,1921,"Cities, population over 100,000",1
+July,1921,"Cities, population 45,000 to 100,000",3
+July,1921,"Cities, population 20,000 to 45,000",6
+July,1921,"Cities, population 10,000 to 20,000",0
+July,1921,"Cities, population 5,000 to 10,000",2
+August,1921,Indiana (statewide),16
+August,1921,Northern counties,4
+August,1921,Central counties,9
+August,1921,Southern counties,3
+August,1921,"Urban, population over 5,000",12
+August,1921,"Rural, population under 5,000",4
+August,1921,"Cities, population over 100,000",3
+August,1921,"Cities, population 45,000 to 100,000",4
+August,1921,"Cities, population 20,000 to 45,000",1
+August,1921,"Cities, population 10,000 to 20,000",4
+August,1921,"Cities, population 5,000 to 10,000",0
+September,1921,Indiana (statewide),17
+September,1921,Northern counties,6
+September,1921,Central counties,10
+September,1921,Southern counties,1
+September,1921,"Urban, population over 5,000",10
+September,1921,"Rural, population under 5,000",7
+September,1921,"Cities, population over 100,000",2
+September,1921,"Cities, population 45,000 to 100,000",1
+September,1921,"Cities, population 20,000 to 45,000",5
+September,1921,"Cities, population 10,000 to 20,000",1
+September,1921,"Cities, population 5,000 to 10,000",1
+October,1921,Indiana (statewide),14
+October,1921,Northern counties,2
+October,1921,Central counties,8
+October,1921,Southern counties,4
+October,1921,"Urban, population over 5,000",9
+October,1921,"Rural, population under 5,000",5
+October,1921,"Cities, population over 100,000",4
+October,1921,"Cities, population 45,000 to 100,000",2
+October,1921,"Cities, population 20,000 to 45,000",2
+October,1921,"Cities, population 10,000 to 20,000",0
+October,1921,"Cities, population 5,000 to 10,000",1
+November,1921,Indiana (statewide),16
+November,1921,Northern counties,6
+November,1921,Central counties,8
+November,1921,Southern counties,2
+November,1921,"Urban, population over 5,000",10
+November,1921,"Rural, population under 5,000",6
+November,1921,"Cities, population over 100,000",1
+November,1921,"Cities, population 45,000 to 100,000",6
+November,1921,"Cities, population 20,000 to 45,000",0
+November,1921,"Cities, population 10,000 to 20,000",2
+November,1921,"Cities, population 5,000 to 10,000",1
+December,1921,Indiana (statewide),26
+December,1921,Northern counties,8
+December,1921,Central counties,9
+December,1921,Southern counties,9
+December,1921,"Urban, population over 5,000",14
+December,1921,"Rural, population under 5,000",12
+December,1921,"Cities, population over 100,000",3
+December,1921,"Cities, population 45,000 to 100,000",5
+December,1921,"Cities, population 20,000 to 45,000",2
+December,1921,"Cities, population 10,000 to 20,000",1
+December,1921,"Cities, population 5,000 to 10,000",3

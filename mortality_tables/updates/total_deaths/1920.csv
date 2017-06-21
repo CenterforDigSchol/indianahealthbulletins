@@ -1,0 +1,133 @@
+Month,Year,Region,Births,Total Deaths
+January,1920,Indiana (statewide),5081,3691
+January,1920,Northern counties,1945,1572
+January,1920,Central counties,2027,1430
+January,1920,Southern counties,1109,689
+January,1920,Urban,2428,1924
+January,1920,Rural,2653,1767
+January,1920,"Cities, class 1",535,442
+January,1920,"Cities, class 2",668,574
+January,1920,"Cities, class 3",625,511
+January,1920,"Cities, class 4",313,227
+January,1920,"Cities, class 5",287,170
+February,1920,Indiana (statewide),5247,5522
+February,1920,Northern counties,1998,2023
+February,1920,Central counties,2094,2405
+February,1920,Southern counties,1155,1094
+February,1920,Urban,2443,2696
+February,1920,Rural,2794,2826
+February,1920,"Cities, class 1",526,684
+February,1920,"Cities, class 2",636,695
+February,1920,"Cities, class 3",686,704
+February,1920,"Cities, class 4",316,328
+February,1920,"Cities, class 5",279,285
+March,1920,Indiana (statewide),5196,3958
+March,1920,Northern counties,1966,1349
+March,1920,Central counties,2086,1676
+March,1920,Southern counties,1144,933
+March,1920,Urban,2441,1813
+March,1920,Rural,2755,2145
+March,1920,"Cities, class 1",539,417
+March,1920,"Cities, class 2",710,499
+March,1920,"Cities, class 3",657,507
+March,1920,"Cities, class 4",281,200
+March,1920,"Cities, class 5",254,190
+April,1920,Indiana (statewide),4742,3131
+April,1920,Northern counties,1833,1081
+April,1920,Central counties,1920,1383
+April,1920,Southern counties,989,667
+April,1920,Urban,2169,1472
+April,1920,Rural,2573,1659
+April,1920,"Cities, class 1",546,381
+April,1920,"Cities, class 2",565,392
+April,1920,"Cities, class 3",597,369
+April,1920,"Cities, class 4",233,162
+April,1920,"Cities, class 5",228,168
+May,1920,Indiana (statewide),5188,3161
+May,1920,Northern counties,1967,1140
+May,1920,Central counties,2156,1419
+May,1920,Southern counties,1065,602
+May,1920,Urban,2524,1506
+May,1920,Rural,2664,1655
+May,1920,"Cities, class 1",628,422
+May,1920,"Cities, class 2",693,386
+May,1920,"Cities, class 3",651,380
+May,1920,"Cities, class 4",270,158
+May,1920,"Cities, class 5",282,160
+June,1920,Indiana (statewide),5163,2614
+June,1920,Northern counties,1987,896
+June,1920,Central counties,2071,1172
+June,1920,Southern counties,1105,546
+June,1920,Urban,2466,1338
+June,1920,Rural,2697,1276
+June,1920,"Cities, class 1",594,340
+June,1920,"Cities, class 2",656,365
+June,1920,"Cities, class 3",666,317
+June,1920,"Cities, class 4",300,169
+June,1920,"Cities, class 5",250,147
+July,1920,Indiana (statewide),5264,2538
+July,1920,Northern counties,1964,888
+July,1920,Central counties,2109,1118
+July,1920,Southern counties,1191,532
+July,1920,Urban,2385,1217
+July,1920,Rural,2879,1321
+July,1920,"Cities, class 1",591,332
+July,1920,"Cities, class 2",640,317
+July,1920,"Cities, class 3",566,259
+July,1920,"Cities, class 4",316,164
+July,1920,"Cities, class 5",272,145
+August,1920,Indiana (statewide),5537,2397
+August,1920,Northern counties,2041,790
+August,1920,Central counties,2283,1055
+August,1920,Southern counties,1213,552
+August,1920,Urban,2597,1174
+August,1920,Rural,2940,1223
+August,1920,"Cities, class 1",631,289
+August,1920,"Cities, class 2",686,343
+August,1920,"Cities, class 3",688,296
+August,1920,"Cities, class 4",318,124
+August,1920,"Cities, class 5",274,122
+September,1920,Indiana (statewide),5171,2518
+September,1920,Northern counties,1906,838
+September,1920,Central counties,2123,1119
+September,1920,Southern counties,1142,561
+September,1920,Urban,2391,1232
+September,1920,Rural,2780,1286
+September,1920,"Cities, class 1",579,342
+September,1920,"Cities, class 2",638,318
+September,1920,"Cities, class 3",641,301
+September,1920,"Cities, class 4",267,154
+September,1920,"Cities, class 5",266,117
+October,1920,Indiana (statewide),4958,2662
+October,1920,Northern counties,1806,925
+October,1920,Central counties,1967,1154
+October,1920,Southern counties,1185,583
+October,1920,Urban,2284,1298
+October,1920,Rural,2674,1364
+October,1920,"Cities, class 1",535,305
+October,1920,"Cities, class 2",614,340
+October,1920,"Cities, class 3",590,337
+October,1920,"Cities, class 4",302,176
+October,1920,"Cities, class 5",243,140
+November,1920,Indiana (statewide),4419,2656
+November,1920,Northern counties,1680,933
+November,1920,Central counties,1740,1109
+November,1920,Southern counties,999,614
+November,1920,Urban,2160,1273
+November,1920,Rural,2259,1383
+November,1920,"Cities, class 1",518,321
+November,1920,"Cities, class 2",597,326
+November,1920,"Cities, class 3",564,309
+November,1920,"Cities, class 4",251,182
+November,1920,"Cities, class 5",230,135
+December,1920,Indiana (statewide),4717,2871
+December,1920,Northern counties,1802,989
+December,1920,Central counties,1889,1231
+December,1920,Southern counties,1026,651
+December,1920,Urban,2262,1423
+December,1920,Rural,2455,1448
+December,1920,"Cities, class 1",506,322
+December,1920,"Cities, class 2",610,384
+December,1920,"Cities, class 3",604,365
+December,1920,"Cities, class 4",278,175
+December,1920,"Cities, class 5",264,177
