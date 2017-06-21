@@ -1,0 +1,262 @@
+/******************************************
+* Indiana Public Health Digital Library 
+* Web Portal stylesheet section
+* - pieces of the IU Visual Identity 
+*   formatting have been incorporated 
+*   along with branding from the Indiana State 
+*   Library 
+*   
+* Author: Heather Coates
+* Last updated: 08/28/08
+* Website: http://inpub.medicine.iu.edu/
+*******************************************/
+
+
+/***************************************** 
+ * CSS for screen delivery
+ * 
+ * The function of this stylesheet is to 
+ * control the layout and formatting of 
+ * the IPHDL portal. See the CSS Layout 
+ * Design Notes document for a visual
+ * representation of the CSS design.
+ * 
+ ****************************************/
+ 
+ 
+ /***************************************
+ * Color Scheme with Hex Codes
+ *
+ * IU Crimson = #7D110C
+ * IU Cream = #F8F3D2
+ * IN Deep Blue = #091B59
+ * Medium Blue 1 = #2F4E95
+ * Medium Blue 2 = #5E7ECC
+ * Light Blue = #C6D2FE
+ * IN Gold = #F6EE61
+ * Light Grey Accent = #CACACA
+ * Brown Accent =  #6E4A02
+ * White = #FFFFFF
+ *
+ ***************************************/
+ 
+/*  Create fluidity for major site elements */
+html {
+	margin: 0;
+	padding: 0;
+	height: 100%;
+}
+
+/*-- Sets font size roughly equal to 10px; can scale layout to adjust when font size is adjusted producing a semi-elastic layout */
+body {   
+	bgcolor: #FFFFFF;	
+	min-width: 600px;
+	width: 100%;
+	text-align: center;
+	font: 62.5% Arial, Helvetica, sans-serif;  
+	margin: 0;
+	padding: 0;
+}
+
+#identity {
+	text-align: left;
+	background: #819BD8 url(../img/inpub-banner.gif) no-repeat;
+	border: 0;
+	min-width: 100%;
+	min-height: 10em;
+}
+
+	#identity a {
+		display: block;
+		position: relative;
+		text-decoration: none;
+	}
+	
+	#identity a img {
+		display: inline;
+		float: left;
+		border: 0;
+		padding: .25em .25em 0 .25em;
+		width: 26em;
+		margin-top: 2em;
+	}
+
+#rotateimage {
+	position: relative;
+	overflow: visible;
+}
+
+	#rotateimage img {
+		float: right;
+		display: inline;
+		margin: 2px;
+		border: 0;
+		overflow: hidden;
+	}
+
+/* Allows a two column layout by enclosing the tertiaryNav, content, and footer divisions; begins after the identity division, which includes the mainNav & secondaryNav divisions */
+#wrapper {  
+	clear: both;
+	min-width: 60em;
+	max-width: 100%;
+	margin: 0 auto;
+	padding: 15px 5px 5px 5px;
+}
+
+/* Format the main navigation bar (top) */
+#mainNav {
+	clear: both;
+	float: right;
+	display: block;
+	min-width: 35em;
+	max-width: 100%;
+	font: 1.3em Arial, Helvetica, sans-serif;
+	font-weight: bold;
+	margin: 0;
+}
+
+	#mainNav ul {
+			list-style-type: none;
+	}
+		#mainNav li {
+				float: right;
+				display: inline;  /* :KLUDGE: Removes large gaps in Windows-based IE */
+		}
+	
+	#mainNav li#divider {   /* using ids to add in padding between first and last of each section of the mainNav menu */
+		padding-left: 15em;
+		padding-right: 15em;
+	}
+
+	#mainNav a {
+		padding-top: .5em;
+		padding-bottom: .5em;
+		padding-left: 1em;
+		padding-right: 1em;
+		line-height: 2em;
+		text-decoration: none;
+	}
+	
+	#mainNav a.other {   /* using different classes to distringuish between audience specific options and other main navigation menu options */
+		padding-top: .5em;
+		padding-bottom: .5em;
+		padding-left: 1em;
+		padding-right: 1em;
+		line-height: 2em;
+		background-color: #091B59;
+		color: #FFFFFF;
+	}
+
+	#mainNav a.audience {   /* using different classes to distringuish between audience specific options and other main navigation menu options */
+		padding-top: .5em;
+		padding-bottom: .5em;
+		padding-left: 1em;
+		padding-right: 1em;
+		line-height: 2em;
+		background-color: #FFFFFF;
+		color: #091B59;
+	}
+	
+	#mainNav a:hover {
+		text-decoration: underline;
+		background-color: #F6EE61;
+		color: #091B59;
+	}
+	
+/* End format of the main navigation bar (top) */
+
+
+/* Format the tertiary navigation bar (left) */
+#secondaryNav {
+	float: left;
+	min-width: 17em;
+	max-width: 25%;
+	font: 1.3em Arial, Helvetica, sans-serif;
+	text-align: right;
+	margin: 3em 0 0 0;
+}
+
+	#secondaryNav ul {
+		margin: 0;
+		display: block;
+		min-width: 17em;
+		list-style-type: none;
+	}
+
+	#secondaryNav li {
+		margin: 0;
+		padding-top: .25em;
+		line-height: 1.5em;
+	}
+	
+	#secondaryNav a {
+		display: block;
+		width: 17em;
+		padding: .2em;
+		text-decoration: none;
+		background-color: #5E7ECC;
+		color: #FFFFFF;
+}
+		
+	#secondaryNav a:hover {
+		font-weight: bold;
+		background-color: #2F4E95;
+		color: #FFFFFF;		
+	}
+/* End format of the tertiary navigation bar (left) */
+
+/*  */
+#content { 
+	float: right;
+	width: 50em;
+	max-width: 65%;
+	font: 1.5em Arial, Helvetica, sans-serif;
+	text-align: left;
+	line-height: 1.25em;
+	padding: 10px;
+	margin-top: 2em;
+	min-height: 40em;
+}
+
+	#content h1 h2 h3 {
+		text-align: left;
+		line-height: 1.5em;
+	}
+	
+	#content .sitemap {
+		text-align: left;
+		list-style-type: none;
+	}
+
+	#content .contactus {
+		text-align: left;
+		list-style-type: none;
+		line-height: 1.1em;
+	}
+
+/*  */
+#footer {
+	clear: both;
+	font: 1.1em Arial, Helvetica, sans-serif;
+	min-width: 60em;
+	max-width: 75%;
+	padding: 1em;
+	margin-left: 20em;
+	margin-right: 20em;
+	text-align: center;
+}
+	#footer img {
+		border: 0;
+		padding-right: 5em;
+		padding-left: 5em;
+	}
+
+	#footer #copyright {
+		margin: 0 auto;
+	}
+	
+	#footer #copyright #statement {
+		margin: 0;
+		font-size: 1em;
+		line-height: 1.25em;
+	}
