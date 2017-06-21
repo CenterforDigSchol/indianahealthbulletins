@@ -1,0 +1,532 @@
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN"
+"http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml">
+<head>
+    <title> Using the INPUB mortality database </title>
+
+    <meta name="Keywords"
+    content="IU, Indiana University, Indiana Public Health Mortality Database,
+    Indiana State Library, Ruth Lilly Medical Library" />
+    <meta name="Description"
+    content="Help for the INPUB mortality database" />
+    <meta http-equiv="Content-Type" content="text/html; charset=iso-8859-1" />
+
+    <!-- INDIANA PUBLIC HEALTH DIGITAL LIBRARY style sheet -->
+    <link href= "../css/inpub-style.css" rel= "stylesheet" type="text/css" />
+
+    <!-- INPUB database style sheet -->
+    <link rel="stylesheet" type="text/css" href="inpub_db.css" />
+
+	<!--Javascript for dynamic images in the banner -->
+	<script language="javascript" type="text/javascript">
+
+		img2 = new Image()
+		seconds = "5";
+		
+		function imgOne() {
+			document.myimg.src = 'http://inpub.medicine.iu.edu/img/sample1.gif';
+			setTimeout("imgTwo()", seconds * 1000);
+		}
+		function imgTwo() {
+			document.myimg.src = 'http://inpub.medicine.iu.edu/img/sample2.gif';
+			setTimeout("imgThree()", seconds * 1000);
+		}
+		function imgThree() {
+			document.myimg.src = 'http://inpub.medicine.iu.edu/img/sample3.gif';
+			setTimeout("imgOne()", seconds * 1000);
+		}
+		</script>
+</head>
+
+<body onload="imgOne();" bgcolor="#FFFFFF">
+
+    <!-- BEGIN INDIANA PUBLIC HEALTH DIGITAL LIBRARY IDENTITY CONTENT -->
+    <div id="identity">
+
+        <!-- INSERT INDIANA PUBLIC HEALTH DIGITAL LIBRARY LOGO -->
+        <a href="../index.html">
+        <img src="../img/inpub-logo.jpg"
+        alt="Indiana Public Health Digital Library Logo" /></a>
+
+        <!-- BEGIN ROTATING IMAGES -->
+		<div id="rotateimage">
+                <img src="../img/sample1.gif" name="myimg"
+                alt="Various images from the Indiana State Bulletin of
+                Health Image Collection"/>        
+		</div>
+		<!-- END ROTATING IMAGES -->
+
+    </div>
+	<!-- END INDIANA PUBLIC HEALTH DIGITAL LIBRARY IDENTITY -->
+
+	<!--BEGIN TOP NAVIGATION BAR -->
+      	<!--[if IE]> <div id="IE"> <![endif]-->
+		<div id="mainNav">  
+        <ul>
+            <li><a class="other" href="site_map.html">Site Map</a></li>
+            <li><a class="other" href="contact_us.html">Contact Us</a></li>
+            <li><a class="other" href="inpub_db_help.html">Help</a></li>
+            <li><a class="other" href="index.html">Home</a></li>
+            <li id="divider">blank</li>
+            <li><a class="audience"
+            href="../publichealth.html">For public health professionals</a></li>
+            <li><a class="audience"
+            href="../historians.html">For historians</a></li>
+            <li><a class="audience"
+            href="../public.html">For Indiana residents</a></li>
+		</ul>
+        <br /><br />
+        </div>    	<!--END TOP NAVIGATION BAR -->
+       	<!--[if IE]> </div> <![endif]-->
+
+ 	<div id="wrapper">
+    <!-- BEGIN CONTAINER FOR CONTENT, LEFT MENU, & FOOTER -->
+
+        <!-- BEGIN LEFT (TERTIARY) NAVIGATION BAR
+        FOR INDIANA PUBLIC HEALTH DIGITAL LIBRARY -->
+        <div id="secondaryNav">
+            <ul>
+                <li><a href="https://idea.iupui.edu/dspace/handle/1805/1640">
+                Indiana State Board of Health Monthly Bulletin (1899- )</a></li>
+                <li><a href="../unavailable.html">
+                Indiana State Board of Health Monthly Bulletin Statistical
+                Tables</a></li>
+                <li><a href="index.html">
+                Indiana State Board of Health Monthly Bulletin Vital Statistics
+                (1917-1921)</a></li>
+                <li><a href="../unavailable.html">
+                Medical History Image Collection</a></li>
+	            <li><a href="https://idea.iupui.edu/dspace/handle/1805/1640">
+                IUPUI Digital Archive (IDeA) Public Health Collection</a></li>
+	            <li><a href="http://library.medicine.iu.edu">
+                Indiana University School of Medicine Library (IUSML)</a></li>
+                <li><a href="http://www.in.gov/memories">
+                Indiana State Library Memory Collection</a></li>
+	            <li><a href="../projdoc.html">Project Documentation</a></li>
+            </ul>
+        </div>
+		<!-- END LEFT (TERTIARY) NAVIGATION BAR
+        FOR INDIANA PUBLIC HEALTH DIGITAL LIBRARY -->
+
+        <!-- BEGIN CONTENT AREA -->
+        <div id="content">
+
+<!-- ============================================================= -->
+
+    <a name="table_display_options" />
+    <h2> Table display options </h2>
+
+    <p> The following are examples of each of the six Table Display Options:
+    </p>
+
+    <a name="mrs_layout" />
+    <h4> One table per Month, Regions in rows, Statistics in columns </h4>
+
+        <ul>
+        <table class="query_results">
+          <caption> August 1918 </caption>
+          <tr class="heading">
+            <td class="column_heading"> Region </td>
+            <td class="column_heading"> Population </td>
+            <td class="column_heading"> Lobar and Broncho Pneumonia </td>
+            <td class="column_heading"> Influenza </td>
+            <td class="column_heading"> Smallpox </td>
+          </tr>
+          <tr class="odd_row">
+            <th> Indiana (statewide) </th>
+            <td class="statistic_value"> 2911665 </td>
+            <td class="statistic_value"> 60 </td>
+            <td class="statistic_value"> 5 </td>
+            <td class="statistic_value"> 0 </td>
+          </tr>
+          <tr class="even_row">
+            <th> Urban </th>
+            <td class="statistic_value"> 1210486 </td>
+            <td class="statistic_value"> 28 </td>
+            <td class="statistic_value"> 3 </td>
+            <td class="statistic_value"> 0 </td>
+          </tr>
+          <tr class="odd_row">
+            <th> Rural </th>
+            <td class="statistic_value"> 1701179 </td>
+            <td class="statistic_value"> 32 </td>
+            <td class="statistic_value"> 2 </td>
+            <td class="statistic_value"> 0 </td>
+          </tr>
+        </table>
+        </ul>
+
+    <a name="msr_layout" />
+    <h4> One table per Month, Statistics in rows, Regions in columns </h4>
+
+        <ul>
+        <table class="query_results">
+          <caption> August 1918 </caption>
+          <tr class="heading">
+            <td class="column_heading"> Statistic </td>
+            <td class="column_heading"> Indiana (statewide) </td>
+            <td class="column_heading"> Urban </td>
+            <td class="column_heading"> Rural </td>
+          </tr>
+          <tr class="odd_row">
+            <th> Population </th>
+            <td class="statistic_value"> 2911665 </td>
+            <td class="statistic_value"> 1210486 </td>
+            <td class="statistic_value"> 1701179 </td>
+          </tr>
+          <tr class="even_row">
+            <th> Lobar and Broncho Pneumonia </th>
+            <td class="statistic_value"> 60 </td>
+            <td class="statistic_value"> 28 </td>
+            <td class="statistic_value"> 32 </td>
+          </tr>
+          <tr class="odd_row">
+            <th> Influenza </th>
+            <td class="statistic_value"> 5 </td>
+            <td class="statistic_value"> 3 </td>
+            <td class="statistic_value"> 2 </td>
+          </tr>
+          <tr class="even_row">
+            <th> Smallpox </th>
+            <td class="statistic_value"> 0 </td>
+            <td class="statistic_value"> 0 </td>
+            <td class="statistic_value"> 0 </td>
+          </tr>
+        </table>
+        </ul>
+
+    <a name="rms_layout" />
+    <h4> One table per Region, Months in rows, Statistics in columns </h4>
+
+        <ul>
+        <table class="query_results">
+          <caption> Indiana (statewide) </caption>
+          <tr class="heading">
+            <td class="column_heading"> Month and Year </td>
+            <td class="column_heading"> Population </td>
+            <td class="column_heading"> Lobar and Broncho Pneumonia </td>
+            <td class="column_heading"> Influenza </td>
+            <td class="column_heading"> Smallpox </td>
+          </tr>
+          <tr class="odd_row">
+            <th> June 1918 </th>
+            <td class="statistic_value"> 2911665 </td>
+            <td class="statistic_value"> 72 </td>
+            <td class="statistic_value"> 6 </td>
+            <td class="statistic_value"> 1 </td>
+          </tr>
+          <tr class="even_row">
+            <th> July 1918 </th>
+            <td class="statistic_value"> 2911665 </td>
+            <td class="statistic_value"> 70 </td>
+            <td class="statistic_value"> 1 </td>
+            <td class="statistic_value"> 3 </td>
+          </tr>
+          <tr class="odd_row">
+            <th> August 1918 </th>
+            <td class="statistic_value"> 2911665 </td>
+            <td class="statistic_value"> 60 </td>
+            <td class="statistic_value"> 5 </td>
+            <td class="statistic_value"> 0 </td>
+          </tr>
+          <tr class="even_row">
+            <th> September 1918 </th>
+            <td class="statistic_value"> 2911665 </td>
+            <td class="statistic_value"> 130 </td>
+            <td class="statistic_value"> 61 </td>
+            <td class="statistic_value"> 0 </td>
+          </tr>
+          <tr class="odd_row">
+            <th> October 1918 </th>
+            <td class="statistic_value"> 2911665 </td>
+            <td class="statistic_value"> 1261 </td>
+            <td class="statistic_value"> 2030 </td>
+            <td class="statistic_value"> 0 </td>
+          </tr>
+        </table>
+        </ul>
+
+    <a name="rsm_layout" />
+    <h4> One table per Region, Statistics in rows, Months in columns </h4>
+
+        <ul>
+        <table class="query_results">
+          <caption> Indiana (statewide) </caption>
+          <tr class="heading">
+            <td class="column_heading"> Statistic </td>
+            <td class="column_heading"> June 1918 </td>
+            <td class="column_heading"> July 1918 </td>
+            <td class="column_heading"> August 1918 </td>
+            <td class="column_heading"> September 1918 </td>
+            <td class="column_heading"> October 1918 </td>
+          </tr>
+          <tr class="odd_row">
+            <th> Population </th>
+            <td class="statistic_value"> 2911665 </td>
+            <td class="statistic_value"> 2911665 </td>
+            <td class="statistic_value"> 2911665 </td>
+            <td class="statistic_value"> 2911665 </td>
+            <td class="statistic_value"> 2911665 </td>
+          </tr>
+          <tr class="even_row">
+            <th> Lobar and Broncho Pneumonia </th>
+            <td class="statistic_value"> 72 </td>
+            <td class="statistic_value"> 70 </td>
+            <td class="statistic_value"> 60 </td>
+            <td class="statistic_value"> 130 </td>
+            <td class="statistic_value"> 1261 </td>
+          </tr>
+          <tr class="odd_row">
+            <th> Influenza </th>
+            <td class="statistic_value"> 6 </td>
+            <td class="statistic_value"> 1 </td>
+            <td class="statistic_value"> 5 </td>
+            <td class="statistic_value"> 61 </td>
+            <td class="statistic_value"> 2030 </td>
+          </tr>
+          <tr class="even_row">
+            <th> Smallpox </th>
+            <td class="statistic_value"> 1 </td>
+            <td class="statistic_value"> 3 </td>
+            <td class="statistic_value"> 0 </td>
+            <td class="statistic_value"> 0 </td>
+            <td class="statistic_value"> 0 </td>
+          </tr>
+        </table>
+        </ul>
+
+    <a name="smr_layout" />
+    <h4> One table per Statistic, Months in rows, Regions in columns </h4>
+
+        <ul>
+        <table class="query_results">
+          <caption> Lobar and Broncho Pneumonia </caption>
+          <tr class="heading">
+            <td class="column_heading"> Month and Year </td>
+            <td class="column_heading"> Indiana (statewide) </td>
+            <td class="column_heading"> Urban </td>
+            <td class="column_heading"> Rural </td>
+          </tr>
+          <tr class="odd_row">
+            <th> June 1918 </th>
+            <td class="statistic_value"> 72 </td>
+            <td class="statistic_value"> 42 </td>
+            <td class="statistic_value"> 30 </td>
+          </tr>
+          <tr class="even_row">
+            <th> July 1918 </th>
+            <td class="statistic_value"> 70 </td>
+            <td class="statistic_value"> 39 </td>
+            <td class="statistic_value"> 31 </td>
+          </tr>
+          <tr class="odd_row">
+            <th> August 1918 </th>
+            <td class="statistic_value"> 60 </td>
+            <td class="statistic_value"> 28 </td>
+            <td class="statistic_value"> 32 </td>
+          </tr>
+          <tr class="even_row">
+            <th> September 1918 </th>
+            <td class="statistic_value"> 130 </td>
+            <td class="statistic_value"> 88 </td>
+            <td class="statistic_value"> 42 </td>
+          </tr>
+          <tr class="odd_row">
+            <th> October 1918 </th>
+            <td class="statistic_value"> 1261 </td>
+            <td class="statistic_value"> 770 </td>
+            <td class="statistic_value"> 491 </td>
+          </tr>
+        </table>
+        </ul>
+
+    <a name="srm_layout" />
+    <h4> One table per Statistic, Regions in rows, Months in columns </h4>
+
+        <ul>
+        <table class="query_results">
+          <caption> Lobar and Broncho Pneumonia </caption>
+          <tr class="heading">
+            <td class="column_heading"> Region </td>
+            <td class="column_heading"> June 1918 </td>
+            <td class="column_heading"> July 1918 </td>
+            <td class="column_heading"> August 1918 </td>
+            <td class="column_heading"> September 1918 </td>
+            <td class="column_heading"> October 1918 </td>
+          </tr>
+          <tr class="odd_row">
+            <th> Indiana (statewide) </th>
+            <td class="statistic_value"> 72 </td>
+            <td class="statistic_value"> 70 </td>
+            <td class="statistic_value"> 60 </td>
+            <td class="statistic_value"> 130 </td>
+            <td class="statistic_value"> 1261 </td>
+          </tr>
+          <tr class="even_row">
+            <th> Urban </th>
+            <td class="statistic_value"> 42 </td>
+            <td class="statistic_value"> 39 </td>
+            <td class="statistic_value"> 28 </td>
+            <td class="statistic_value"> 88 </td>
+            <td class="statistic_value"> 770 </td>
+          </tr>
+          <tr class="odd_row">
+            <th> Rural </th>
+            <td class="statistic_value"> 30 </td>
+            <td class="statistic_value"> 31 </td>
+            <td class="statistic_value"> 32 </td>
+            <td class="statistic_value"> 42 </td>
+            <td class="statistic_value"> 491 </td>
+          </tr>
+        </table>
+        </ul>
+
+    <hr />
+
+    <!-- =========================================================== -->
+
+    <a name="geographical_regions" />
+    <h2> Geographical Regions </h2>
+
+    <ul>
+    <p> All geographical regions are in the state of Indiana. </p>
+    </ul>
+
+    <ul>
+
+    <a name="northern_counties" />
+    <li> <h4>Northern counties:</h4>
+    Adams, Allen, Benton, Blackford, Carroll, Cass, De Kalb, Elkhart, Fulton,
+    Howard, Huntington, Jasper, Jay, Kosciusko, La Grange, Lake, La Porte,
+    Marshall, Miami, Newton, Noble, Porter, Pulaski, Starke, Steuben,
+    St. Joseph, Wabash, Wells, White, Whitley
+    </li>
+
+    <a name="central_counties" />
+    <li> <h4>Central counties:</h4>
+    Bartholomew, Boone, Brown, Clinton, Decatur, Delaware, Fayette, Fountain,
+    Franklin, Hamilton, Hancock, Hendricks, Henry, Johnson, Madison, Marion,
+    Monroe, Montgomery, Morgan, Owen, Parke, Putnam, Randolph, Ripley, Rush,
+    Shelby, Tippecanoe, Tipton, Union, Vermillion, Vigo, Warren, Wayne
+    </li>
+
+    <a name="southern_counties" />
+    <li> <h4>Southern counties:</h4>
+    Clark, Clay, Crawford, Daviess, Dearborn, Dubois, Floyd, Greene, Harrison,
+    Jackson, Jefferson, Jennings, Knox, Lawrence, Martin, Morgan, Ohio, Orange,
+    Perry, Pike, Posey, Scott, Spencer, Sullivan, Switzerland, Vanderburgh,
+    Warrick, Washington
+    </li>
+    </ul>
+
+    <ul>
+    <a name="urban" />
+    <li> <p>
+    <strong>Urban</strong> geographical region
+    includes all incorporated cities. </p>
+    </li>
+
+    <a name="rural" />
+    <li> <p>
+    <strong>Rural</strong> geographical region
+    includes population outside of incorporated cities. </p>
+    </li>
+    </ul>
+
+    <ul>
+    <a name="cities" />
+    <h4> Cities: </h4>
+
+    <p> During the October 1899 - December 1910 time period,
+    cities were divided into the following five classes, based on population:
+    </p>
+    <ol>
+    <li> Cities with populations over 50,000 </li>
+    <li> Cities with populations from 25,000 to 50,000 </li>
+    <li> Cities with populations from 10,000 to 25,000 </li>
+    <li> Cities with populations from 5,000 to 10,000 </li>
+    <li> Cities with populations under 5,000 </li>
+    </ol>
+
+    <p> During the January 1911 - March 1923 time period,
+    cities were divided into the following five classes, based on population:
+    </p>
+    <ol>
+    <li> Cities with populations over 100,000 </li>
+    <li> Cities with populations from 45,000 to 100,000 </li>
+    <li> Cities with populations from 20,000 to 45,000 </li>
+    <li> Cities with populations from 10,000 to 20,000 </li>
+    <li> Cities with populations from 5,000 to 10,000 </li>
+    </ol>
+
+    </ul>
+
+    <hr />
+
+    <!-- =========================================================== -->
+
+    <a name="statistics" />
+    <h2> Statistics </h2>
+
+    <ul>
+
+    <p> Some diseases were referred to by different names over the years.
+    The following diseases had multiple names:
+    <ul>
+    <li> <strong>Poliomyelitis</strong>
+    was named <i>Acute Anterior Poliomyelitis</i>
+    starting in February 1912. </li>
+    <li> <strong>Diarrhea and Enteritis, Under 2 Years</strong>
+    was named <i>Diarrheal Diseases. Under Two</i>
+    from December 1910 to February 1911. </li>
+    <li> <strong>Cerebro-Spinal Fever</strong> 
+    was named <i>Cerebro-Spinal Meningitis</i>
+    from October 1899 to January 1911. </li>
+    <li> <strong>Pneumonia</strong>
+    was named <i>Lobar and Broncho-Pneumonia</i>
+    starting April 1910. </li>
+    <li> <strong>Pulmonary Tuberculosis</strong>
+    was named <i>Pulmonary Consumption</i>
+    from October 1899 to December 1899. </li>
+    </ul>
+    </p>
+
+    </ul>
+
+<!-- ============================================================= -->
+
+        </div>
+  		<!--END CONTENT AREA -->
+
+	</div>  <!-- END CONTAINER FOR CONTENT, LEFT MENU, & FOOTER -->
+
+<!-- BEGIN INDIANA UNIVERSITY FOOTER -->
+<div id="footer">
+    <p>This project has been funded by the National Library of Medicine under
+    Contract No. NO1-LM-6-3503 with the University of Illinois at Chicago,
+    Library of the Health Sciences and by the Indiana State Library as part of
+    a Library Services and Technology Act (LSTA) Digitization Grant.</p>
+    
+    <br />
+    
+        <a href="http://medicine.iu.edu">
+        <img src="../img/IUSM-logo.gif" border="0"
+        alt="Indiana University School of Medicine logo" /></a>
+        <a href="http://www.in.gov/library/">
+        <img src="../img/ISL-logo.gif" border="0"
+        alt="Indiana State Library logo" /></a>
+
+    <hr />
+    <div id="copyright">
+        <div id="statement">
+            <p>Although these works may be freely accessible on the World Wide
+            Web and may not include any statement about copyright, the U.S.
+            Copyright Act nevertheless provides that such works are protected
+            by copyright. Users must assume that works are protected by
+            copyright until they learn otherwise.</p>
+    </div>
+</div>
+<!-- END INDIANA UNIVERSITY FOOTER -->
+
+</body>
+</html>

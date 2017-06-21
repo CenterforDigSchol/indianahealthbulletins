@@ -1,0 +1,327 @@
+<html>
+
+<head>
+  <title> INPUB mortality database </title>
+  <link rel="stylesheet" href="inpub.css" type="text/css" />
+</head>
+
+<body>
+
+<p>
+This database contains mortality data extracted from tables published in the
+Monthly Bulletin of the Indiana State Board of Health.
+Queries produce a table showing the number of deaths from the specified causes
+by month and geographical region.
+As the Monthly Bulletin only reported deaths from &quot;important causes&quot;,
+data is not available for all causes of death.
+This mortality data does not include stillbirths.
+Monthly statistics are currently available for the January 1918 - December 1920
+time frame.
+Population was based on the latest census, or is the estimated population.
+</p>
+
+<!-- ============================================================= -->
+
+  <form action="inpub.cgi" method="get">
+
+    <table class="form">
+
+<!-- ============================================================= -->
+
+      <tr class="heading">
+        <td>
+          <strong> Table display options: </strong>
+          &nbsp; &nbsp;
+          <a href="inpub_help.htm#table_display_options">
+          <span class="help_link">[Help]</span>
+          </a>
+        </td>
+      </tr>
+
+      <tr>
+        <td>
+          <input type="radio" name="output_layout" value="mrs" checked>
+          One table per Month, Regions in rows, Statistics in columns. &nbsp;
+          <a href="inpub_help.htm#mrs_layout">
+          <span class="info_link">&nbsp;&nbsp;?&nbsp;&nbsp;</span></a>
+          <br />
+
+          <input type="radio" name="output_layout" value="msr">
+          One table per Month, Statistics in rows, Regions in columns. &nbsp;
+          <a href="inpub_help.htm#msr_layout">
+          <span class="info_link">&nbsp;&nbsp;?&nbsp;&nbsp;</span></a>
+          <br />
+
+          <input type="radio" name="output_layout" value="rms">
+          One table per Region, Months in rows, Statistics in columns. &nbsp;
+          <a href="inpub_help.htm#rms_layout">
+          <span class="info_link">&nbsp;&nbsp;?&nbsp;&nbsp;</span></a>
+          <br />
+
+          <input type="radio" name="output_layout" value="rsm">
+          One table per Region, Statistics in rows, Months in columns. &nbsp;
+          <a href="inpub_help.htm#rsm_layout">
+          <span class="info_link">&nbsp;&nbsp;?&nbsp;&nbsp;</span></a>
+          <br />
+
+          <input type="radio" name="output_layout" value="smr">
+          One table per Statistic, Months in rows, Regions in columns. &nbsp;
+          <a href="inpub_help.htm#smr_layout">
+          <span class="info_link">&nbsp;&nbsp;?&nbsp;&nbsp;</span></a>
+          <br />
+
+          <input type="radio" name="output_layout" value="srm">
+          One table per Statistic, Regions in rows, Months in columns. &nbsp;
+          <a href="inpub_help.htm#srm_layout">
+          <span class="info_link">&nbsp;&nbsp;?&nbsp;&nbsp;</span></a>
+          <br />
+        </td>
+      </tr>
+
+<!-- ============================================================= -->
+
+      <!-- Separator between sections of the form. -->
+      <tr class="heading">
+        <td>
+          &nbsp;    <!-- hard blank -->
+        </td>
+      </tr>
+
+<!-- ============================================================= -->
+
+      <tr class="dimension">
+        <td>
+          <strong> Time Range: </strong>
+        </td>
+      </tr>
+
+      <tr>
+        <td>
+          <!-- Inner table -->
+          <table>
+            <tr>
+              <th> Starting month and year: </th>
+
+              <td>
+                <select name="starting_month">
+                  <option value="1">January</option>
+                  <option value="2">February</option>
+                  <option value="3">March</option>
+                  <option value="4">April</option>
+                  <option value="5">May</option>
+                  <option value="6">June</option>
+                  <option value="7">July</option>
+                  <option value="8">August</option>
+                  <option value="9">September</option>
+                  <option value="10">October</option>
+                  <option value="11">November</option>
+                  <option value="12">December</option>
+                </select>
+
+                <select name="starting_year">
+                  <option value="1918">1918</option>
+                  <option value="1919">1919</option>
+                  <option value="1920">1920</option>
+                </select>
+              </td>
+            </tr>
+
+            <tr>
+              <th> Ending month and year: </th>
+
+              <td>
+                <select name="ending_month">
+                  <option value="1">January</option>
+                  <option value="2">February</option>
+                  <option value="3">March</option>
+                  <option value="4">April</option>
+                  <option value="5">May</option>
+                  <option value="6">June</option>
+                  <option value="7">July</option>
+                  <option value="8">August</option>
+                  <option value="9">September</option>
+                  <option value="10">October</option>
+                  <option value="11">November</option>
+                  <option value="12">December</option>
+                </select>
+
+                <select name="ending_year">
+                  <option value="1918">1918</option>
+                  <option value="1919">1919</option>
+                  <option value="1920">1920</option>
+                </select>
+              </td>
+            </tr>
+          </table>
+        </td>
+      </tr>
+
+<!-- ============================================================= -->
+
+      <tr class="dimension">
+        <td colspan="1">
+          <strong> Regions: </strong>
+          &nbsp; &nbsp;
+          <a href="inpub_help.htm#geographical_regions">
+          <span class="help_link">[Help]</span>
+          </a>
+        </td>
+      </tr>
+
+      <tr>
+        <td>
+          <!-- Inner table -->
+          <table>
+            <tr>
+              <td class="inner_table">
+                <input type="checkbox" name="region" value="indiana">
+                Indiana (statewide)
+                <br />
+
+                <input type="checkbox" name="region" value="northern_counties">
+                Northern counties &nbsp;
+                <a href="inpub_help.htm#northern_counties">
+                <span class="info_link">&nbsp;&nbsp;?&nbsp;&nbsp;</span></a>
+                <br />
+
+                <input type="checkbox" name="region" value="central_counties">
+                Central counties &nbsp;
+                <a href="inpub_help.htm#central_counties">
+                <span class="info_link">&nbsp;&nbsp;?&nbsp;&nbsp;</span></a>
+                <br />
+
+                <input type="checkbox" name="region" value="southern_counties">
+                Southern counties &nbsp;
+                <a href="inpub_help.htm#southern_counties">
+                <span class="info_link">&nbsp;&nbsp;?&nbsp;&nbsp;</span></a>
+                <br />
+
+                <input type="checkbox" name="region" value="urban">
+                Urban, population over 5,000 &nbsp;
+                <a href="inpub_help.htm#urban">
+                <span class="info_link">&nbsp;&nbsp;?&nbsp;&nbsp;</span></a>
+                <br />
+
+                <input type="checkbox" name="region" value="rural">
+                Rural, population under 5,000 &nbsp;
+                <a href="inpub_help.htm#rural">
+                <span class="info_link">&nbsp;&nbsp;?&nbsp;&nbsp;</span></a>
+              </td>
+
+              <td>
+                <input type="checkbox" name="region" value="class_1_cities">
+                Cities, population over 100,000 &nbsp;
+                <a href="inpub_help.htm#class_1_cities">
+                <span class="info_link">&nbsp;&nbsp;?&nbsp;&nbsp;</span></a>
+                <br />
+
+                <input type="checkbox" name="region" value="class_2_cities">
+                Cities, population 45,000 to 100,000 &nbsp;
+                <a href="inpub_help.htm#class_2_cities">
+                <span class="info_link">&nbsp;&nbsp;?&nbsp;&nbsp;</span></a>
+                <br />
+
+                <input type="checkbox" name="region" value="class_3_cities">
+                Cities, population 20,000 to 45,000 &nbsp;
+                <a href="inpub_help.htm#class_3_cities">
+                <span class="info_link">&nbsp;&nbsp;?&nbsp;&nbsp;</span></a>
+                <br />
+
+                <input type="checkbox" name="region" value="class_4_cities">
+                Cities, population 10,000 to 20,000 &nbsp;
+                <a href="inpub_help.htm#class_4_cities">
+                <span class="info_link">&nbsp;&nbsp;?&nbsp;&nbsp;</span></a>
+                <br />
+
+                <input type="checkbox" name="region" value="class_5_cities">
+                Cities, population 5,000 to 10,000 &nbsp;
+                <a href="inpub_help.htm#class_5_cities">
+                <span class="info_link">&nbsp;&nbsp;?&nbsp;&nbsp;</span></a>
+              </td>
+            </tr>
+          </table>
+
+        </td>
+      </tr>
+
+<!-- ============================================================= -->
+
+      <tr class="dimension">
+        <td colspan="1">
+          <strong> Statistics: </strong>
+        </td>
+      </tr>
+
+      <tr>
+        <td>
+          <!-- Inner table -->
+          <table>
+            <tr>
+              <td class="inner_table">
+                <input type="checkbox" name="statistic" value="population">
+                Population <br />
+                <input type="checkbox" name="statistic"
+                value="pulmonary_tuberculosis">
+                Pulmonary Tuberculosis <br />
+                <input type="checkbox" name="statistic"
+                value="other_tuberculosis">
+                Other Forms, Tuberculosis <br />
+                <input type="checkbox" name="statistic" value="typhoid">
+                Typhoid Fever <br />
+                <input type="checkbox" name="statistic"
+                value="diptheria_and_croup">
+                Diptheria and Croup <br />
+                <input type="checkbox" name="statistic" value="scarlet_fever">
+                Scarlet Fever <br />
+                <input type="checkbox" name="statistic" value="measles">
+                Measles <br />
+                <input type="checkbox" name="statistic" value="whooping_cough">
+                Whooping Cough <br />
+                <input type="checkbox" name="statistic" value="pneumonia">
+                Lobar and Broncho Pneumonia <br />
+              </td>
+
+              <td>
+                <input type="checkbox" name="statistic"
+                value="diarrhea_and_enteritis">
+                Diarrhea and Enteritis, Under 2 Years <br />
+                <input type="checkbox" name="statistic"
+                value="cerebro_spinal_fever">
+                Cerebro-Spinal Fever <br />
+                <input type="checkbox" name="statistic" value="polio">
+                Acute Anterior Poliomyelitis <br />
+                <input type="checkbox" name="statistic" value="influenza">
+                Influenza <br />
+                <input type="checkbox" name="statistic" value="septicemia">
+                Puerperal Septicemia <br />
+                <input type="checkbox" name="statistic" value="cancer">
+                Cancer <br />
+                <input type="checkbox" name="statistic" value="external_causes">
+                External Causes <br />
+                <input type="checkbox" name="statistic" value="smallpox">
+                Smallpox
+              </td>
+            </tr>
+          </table> 
+
+        </td>
+      </tr>
+
+<!-- ============================================================= -->
+
+      <tr class="submit">
+        <td colspan="1">
+          <input type="submit" name="new_query" value="Submit Query">
+        </td>
+      </tr>
+
+<!-- ============================================================= -->
+
+    </table>
+
+  </form>
+
+<!-- ============================================================= -->
+
+</body>
+</html>

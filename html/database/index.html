@@ -1,0 +1,570 @@
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml">
+<head>
+    <title>Indiana Public Health Digital Library</title>
+    <meta name="Keywords" content="IU, Indiana University, Indiana Public Health Digital Library, Indiana State Library, Ruth Lilly Medical Library" />
+    <meta name="Description" content="Indiana Public Health Digital Library Collections" />
+    <meta http-equiv="Content-Type" content="text/html; charset=iso-8859-1" />
+    
+	<!-- Link to INPUB Style Sheet -->
+	<link href= "../css/inpub-style.css" rel= "stylesheet" type="text/css" />  
+	
+    <!-- INPUB database style sheet -->
+    <link rel="stylesheet" type="text/css" href="inpub_db.css" />
+	
+<!-- ADDING VERT MENU CODE FOR HEADER HERE -->
+<!--[if lte IE 6]>  
+	<link rel="stylesheet" href="../css/hack.css">  <script type="text/javascript">  window.mlrunShim = true; </script> 
+<![endif]-->
+	<script type="text/javascript" src="../js.js"> //This script Copyright Brady Mulhollem - WebTech101.com //This notice must stay intact for legal use </script> 
+</head>	
+<body>
+
+    <!-- BEGIN INDIANA PUBLIC HEALTH DIGITAL LIBRARY IDENTITY CONTENT -->
+    <div id="identity">
+
+        <!-- INSERT INDIANA PUBLIC HEALTH DIGITAL LIBRARY LOGO -->
+        <a href="../index.shtml"><img src="../img/inpub-logo.jpg" alt="Indiana Public Health Digital Library Logo" /></a>
+
+
+
+    </div>
+	<!-- END INDIANA PUBLIC HEALTH DIGITAL LIBRARY IDENTITY -->
+	
+	
+	<!--BEGIN TOP NAVIGATION BAR -->
+      	<!--[if IE]> <div id="IE"> <![endif]-->
+		<div id="mainNav">  
+        <ul>
+            <li><a class="other" href="../public.shtml">For Indiana residents</a></li>
+            <li><a class="other" href="../historians.shtml">For historians</a></li>
+            <li><a class="other" href="../publichealth.shtml">For public health professionals</a></li>
+		</ul>
+        
+        </div>    	<!--END TOP NAVIGATION BAR -->
+       	<!--[if IE]> </div> <![endif]-->
+		
+	
+    <!-- BEGIN LEFT (TERTIARY) NAVIGATION BAR FOR INDIANA PUBLIC HEALTH DIGITAL LIBRARY -->
+	<!-- ADDING VERT NAV CODE HERE -->
+	<!--[if IE]> <div id="IE"> <![endif]-->
+		<div id="secondaryNav">
+		<div class="mlmenu vertical arrow delay accessible trail"> 
+		<ul>  
+		<li><a href="http://cdm1819-01.cdmhost.com/cdm4/browse.php?CISOROOT=%2Fp1819coll12">Indiana State Board of Health Monthly Bulletin (1899 - )</a>
+			<ul>
+			<li>
+				<form method="GET" action="http://cdm1819-01.cdmhost.com/cdm4/results.php">
+				<input type="hidden" name="CISOOP1" value="all">
+				<input type="hidden" name="CISOFIELD1" value="subjec">
+				<input type="hidden" name="CISORESTMP" value="results.php">
+				<input type="hidden" name="CISOVIEWTMP" value="item_viewer.php">
+				<input type="hidden" name="CISOMODE" value="bib">
+				<input type="hidden" name="CISOGRID" value="thumbnail,A,1;title,A,1;subjec,A,0;descri,200,0;none,A,0;20;title,none,none,none,none">
+				<input type="hidden" name="CISOBIB" value="covera,A,0,N;title,A,1,N;descri,A,0,N;none,A,0,N;none,A,0,N;20;covera,none,none,none,none">
+				<input type="hidden" name="CISOTHUMB" value="20 (4x5);title,none,none,none,none">
+				<input type="hidden" name="CISOTITLE" value="20;title,none,none,none,none">
+				<input type="hidden" name="CISOHIERA" value="20;subjec,title,none,none,none">
+				<input type="hidden" name="CISOSUPPRESS" value="0">
+				
+				<input type="hidden" name="CISOROOT" value="/p1819coll12">
+				<input type="text" title="Search" name="CISOBOX1" value="Keyword Search Bulletins" onfocus="if (this.value==this.defaultValue) this.value='';" size="25">
+				<input type="submit" value="Go" class="button">
+				</form> 
+			</li>  
+			</ul>
+		</li>
+		<li><a href="../database/index.html">Indiana State Board of Health Monthly Bulletin Vital Statistics (1913-1921)</a></li>
+		<li><a href="../unavailable.shtml">Indiana State Board of Health Monthly Bulletin Statistical Tables</a></li>		
+		<li><a href="https://scholarworks.iupui.edu/handle/1805/1641" target="_blank">Medical History Image Collection</a></li> 
+		<li><a href="http://library.medicine.iu.edu" target="_blank">Indiana University School of Medicine Library (IUSML)</a></li>
+		<li><a href="http://www.in.gov/memories" target="_blank">Indiana State Library - Indiana Memory Digital Collection</a></li>
+		<li><a href="../projdoc.shtml">Project Documentation</a></li>
+		<li><a href="../sitemap.shtml">Site Map</a></li>
+        <li><a href="../contactus.shtml">Contact Us</a></li>
+		</ul> 
+		</div> 
+		</div>
+	<!--[if IE]> </div id="IE"> <![endif]-->	
+	<!-- END LEFT (TERTIARY) NAVIGATION BAR FOR INDIANA PUBLIC HEALTH DIGITAL LIBRARY -->
+
+        <!-- BEGIN CONTENT AREA -->
+        <div id="content">
+
+<!-- ============================================================= -->
+
+    <p>
+    This database contains mortality data extracted from tables published in
+    the Monthly Bulletin of the Indiana State Board of Health.
+    Queries produce a table showing the number of deaths from the specified
+    causes by month and geographical region.
+    As the Monthly Bulletin only reported deaths
+    from &quot;important causes&quot;,
+    data is not available for all causes of death.
+    This mortality data does not include stillbirths.
+    Monthly statistics are currently available for the
+    October 1899 - December 1939
+    time frame.
+    Population was based on the latest census, or is the estimated population.
+    </p>
+
+    <!-- ============================================================= -->
+
+      <form action="http://inpub.medicine.iu.edu/cgi-bin/inpub.cgi" method="get">
+
+        <table class="form">
+
+    <!-- ============================================================= -->
+
+          <tr class="heading">
+            <td>
+              <strong> Table display options: </strong>
+              &nbsp; &nbsp;
+              <a href="inpub_db_help.html#table_display_options"
+              target="_blank">
+              <span class="help_link">[Help]</span>
+              </a>
+            </td>
+          </tr>
+
+          <tr>
+            <td>
+              <input type="radio" name="output_layout" value="mrs" checked>
+              One table per Month, Regions in rows, Statistics in columns.
+              &nbsp;
+              <a href="info/mrs_layout.htm" target="_blank">
+              <img src="info.gif" alt="info" border="0" /></a>
+              <br />
+
+              <input type="radio" name="output_layout" value="msr">
+              One table per Month, Statistics in rows, Regions in columns.
+              &nbsp;
+              <a href="info/msr_layout.htm" target="_blank">
+              <img src="info.gif" alt="info" border="0" /></a>
+              <br />
+
+              <input type="radio" name="output_layout" value="rms">
+              One table per Region, Months in rows, Statistics in columns.
+              &nbsp;
+              <a href="info/rms_layout.htm" target="_blank">
+              <img src="info.gif" alt="info" border="0" /></a>
+              <br />
+
+              <input type="radio" name="output_layout" value="rsm">
+              One table per Region, Statistics in rows, Months in columns.
+              &nbsp;
+              <a href="info/rsm_layout.htm" target="_blank">
+              <img src="info.gif" alt="info" border="0" /></a>
+              <br />
+
+              <input type="radio" name="output_layout" value="smr">
+              One table per Statistic, Months in rows, Regions in columns.
+              &nbsp;
+              <a href="info/smr_layout.htm" target="_blank">
+              <img src="info.gif" alt="info" border="0" /></a>
+              <br />
+
+              <input type="radio" name="output_layout" value="srm">
+              One table per Statistic, Regions in rows, Months in columns.
+              &nbsp;
+              <a href="info/srm_layout.htm" target="_blank">
+              <img src="info.gif" alt="info" border="0" /></a>
+              <br />
+            </td>
+          </tr>
+
+    <!-- ============================================================= -->
+
+          <!-- Separator between sections of the form. -->
+          <tr class="heading">
+            <td>
+              &nbsp;    <!-- hard blank -->
+            </td>
+          </tr>
+
+    <!-- ============================================================= -->
+
+          <tr class="dimension">
+            <td>
+              <strong> Months: </strong>
+            </td>
+          </tr>
+
+          <tr>
+            <td>
+              <!-- Inner table -->
+              <table>
+                <tr>
+                  <th> Starting month and year: </th>
+
+                  <td>
+                    <select name="starting_month">
+                      <option value="1">January</option>
+                      <option value="2">February</option>
+                      <option value="3">March</option>
+                      <option value="4">April</option>
+                      <option value="5">May</option>
+                      <option value="6">June</option>
+                      <option value="7">July</option>
+                      <option value="8">August</option>
+                      <option value="9">September</option>
+                      <option value="10">October</option>
+                      <option value="11">November</option>
+                      <option value="12">December</option>
+                    </select>
+
+                    <select name="starting_year">
+                      <option value="1899">1899</option>
+                      <option value="1900">1900</option>
+                      <option value="1901">1901</option>
+                      <option value="1902">1902</option>
+                      <option value="1903">1903</option>
+                      <option value="1904">1904</option>
+                      <option value="1905">1905</option>
+                      <option value="1906">1906</option>
+                      <option value="1907">1907</option>
+                      <option value="1908">1908</option>
+                      <option value="1909">1909</option>
+                      <option value="1910">1910</option>
+                      <option value="1911">1911</option>
+                      <option value="1912">1912</option>
+                      <option value="1913">1913</option>
+                      <option value="1914">1914</option>
+                      <option value="1915">1915</option>
+                      <option value="1916">1916</option>
+                      <option value="1917">1917</option>
+                      <option value="1918">1918</option>
+                      <option value="1919">1919</option>
+                      <option value="1920">1920</option>
+                      <option value="1921">1921</option>
+                      <option value="1922">1922</option>
+                      <option value="1923">1923</option>
+                      <option value="1924">1924</option>
+                      <option value="1925">1925</option>
+                      <option value="1926">1926</option>
+                      <option value="1927">1927</option>
+                      <option value="1928">1928</option>
+                      <option value="1929">1929</option>
+                      <option value="1930">1930</option>
+                      <option value="1931">1931</option>
+                      <option value="1932">1932</option>
+                      <option value="1933">1933</option>
+                      <option value="1934">1934</option>
+                      <option value="1935">1935</option>
+                      <option value="1936">1936</option>
+                      <option value="1937">1937</option>
+                      <option value="1938">1938</option>
+                      <option value="1939">1939</option>
+                    </select>
+                  </td>
+                </tr>
+
+                <tr>
+                  <th> Ending month and year: </th>
+
+                  <td>
+                    <select name="ending_month">
+                      <option value="1">January</option>
+                      <option value="2">February</option>
+                      <option value="3">March</option>
+                      <option value="4">April</option>
+                      <option value="5">May</option>
+                      <option value="6">June</option>
+                      <option value="7">July</option>
+                      <option value="8">August</option>
+                      <option value="9">September</option>
+                      <option value="10">October</option>
+                      <option value="11">November</option>
+                      <option value="12">December</option>
+                    </select>
+
+                    <select name="ending_year">
+                      <option value="1899">1899</option>
+                      <option value="1900">1900</option>
+                      <option value="1901">1901</option>
+                      <option value="1902">1902</option>
+                      <option value="1903">1903</option>
+                      <option value="1904">1904</option>
+                      <option value="1905">1905</option>
+                      <option value="1906">1906</option>
+                      <option value="1907">1907</option>
+                      <option value="1908">1908</option>
+                      <option value="1909">1909</option>
+                      <option value="1910">1910</option>
+                      <option value="1911">1911</option>
+                      <option value="1912">1912</option>
+                      <option value="1913">1913</option>
+                      <option value="1914">1914</option>
+                      <option value="1915">1915</option>
+                      <option value="1916">1916</option>
+                      <option value="1917">1917</option>
+                      <option value="1918">1918</option>
+                      <option value="1919">1919</option>
+                      <option value="1920">1920</option>
+                      <option value="1921">1921</option>
+                      <option value="1922">1922</option>
+                      <option value="1923">1923</option>
+                      <option value="1924">1924</option>
+                      <option value="1925">1925</option>
+                      <option value="1926">1926</option>
+                      <option value="1927">1927</option>
+                      <option value="1928">1928</option>
+                      <option value="1929">1929</option>
+                      <option value="1930">1930</option>
+                      <option value="1931">1931</option>
+                      <option value="1932">1932</option>
+                      <option value="1933">1933</option>
+                      <option value="1934">1934</option>
+                      <option value="1935">1935</option>
+                      <option value="1936">1936</option>
+                      <option value="1937">1937</option>
+                      <option value="1938">1938</option>
+                      <option value="1939">1939</option>
+                    </select>
+                  </td>
+                </tr>
+              </table>
+            </td>
+          </tr>
+
+    <!-- ============================================================= -->
+
+          <tr class="dimension">
+            <td colspan="1">
+              <strong> Regions: </strong>
+              &nbsp; &nbsp;
+              <a href="inpub_db_help.html#geographical_regions" target="_blank">
+              <span class="help_link">[Help]</span>
+              </a>
+            </td>
+          </tr>
+
+          <tr>
+            <td>
+              <!-- Inner table -->
+              <table>
+                <tr>
+                  <td class="inner_table">
+                    <input type="checkbox" name="region" value="indiana">
+                    Indiana (statewide)
+                    <br />
+
+                    <input type="checkbox" name="region"
+                    value="northern_counties">
+                    Northern counties &nbsp;
+                    <a href="info/northern_counties.htm" target="_blank">
+                    <img src="info.gif" alt="info" border="0" /></a>
+                    <br />
+
+                    <input type="checkbox" name="region"
+                    value="central_counties">
+                    Central counties &nbsp;
+                    <a href="info/central_counties.htm" target="_blank">
+                    <img src="info.gif" alt="info" border="0" /></a>
+                    <br />
+
+                    <input type="checkbox" name="region"
+                    value="southern_counties">
+                    Southern counties &nbsp;
+                    <a href="info/southern_counties.htm" target="_blank">
+                    <img src="info.gif" alt="info" border="0" /></a>
+                    <br />
+
+                    <input type="checkbox" name="region" value="urban">
+                    Urban &nbsp;
+                    <a href="info/urban.htm" target="_blank">
+                    <img src="info.gif" alt="info" border="0" /></a>
+                    <br />
+
+                    <input type="checkbox" name="region" value="rural">
+                    Rural &nbsp;
+                    <a href="info/rural.htm" target="_blank">
+                    <img src="info.gif" alt="info" border="0" /></a>
+                  </td>
+
+                  <td>
+                    <input type="checkbox" name="region" value="class_1_cities">
+                    Cities, class 1 &nbsp; </a>
+                    <a href="info/cities.htm" target="_blank">
+                    <img src="info.gif" alt="info" border="0" /></a>
+                    <br />
+
+                    <input type="checkbox" name="region" value="class_2_cities">
+                    Cities, class 2 &nbsp; </a>
+                    <a href="info/cities.htm" target="_blank">
+                    <img src="info.gif" alt="info" border="0" /></a>
+                    <br />
+
+                    <input type="checkbox" name="region" value="class_3_cities">
+                    Cities, class 3 &nbsp; </a>
+                    <a href="info/cities.htm" target="_blank">
+                    <img src="info.gif" alt="info" border="0" /></a>
+                    <br />
+
+                    <input type="checkbox" name="region" value="class_4_cities">
+                    Cities, class 4 &nbsp; </a>
+                    <a href="info/cities.htm" target="_blank">
+                    <img src="info.gif" alt="info" border="0" /></a>
+                    <br />
+
+                    <input type="checkbox" name="region" value="class_5_cities">
+                    Cities, class 5 &nbsp; </a>
+                    <a href="info/cities.htm" target="_blank">
+                    <img src="info.gif" alt="info" border="0" /></a>
+                  </td>
+                </tr>
+              </table>
+
+            </td>
+          </tr>
+
+    <!-- ============================================================= -->
+
+          <tr class="dimension">
+            <td colspan="1">
+              <strong> Statistics: </strong>
+              &nbsp; &nbsp;
+              <a href="inpub_db_help.html#statistics" target="_blank">
+              <span class="help_link">[Help]</span>
+              </a>
+            </td>
+          </tr>
+
+          <tr>
+            <td>
+              <!-- Inner table -->
+              <table>
+                <tr>
+                  <td class="inner_table">
+                    <input type="checkbox" name="statistic" value="population">
+                    Population <br />
+                    <input type="checkbox" name="statistic" value="births">
+                    Births <br />
+                    <input type="checkbox" name="statistic"
+                    value="total_deaths">
+                    Total Deaths <br />
+                    <input type="checkbox" name="statistic"
+                    value="tuberculosis">
+                    Tuberculosis (all types) <br />
+                    <input type="checkbox" name="statistic"
+                    value="pulmonary_tuberculosis">
+                    Pulmonary Tuberculosis <br />
+                    <input type="checkbox" name="statistic"
+                    value="other_tuberculosis">
+                    Other Forms, Tuberculosis <br />
+                    <input type="checkbox" name="statistic" value="typhoid">
+                    Typhoid Fever <br />
+                    <input type="checkbox" name="statistic"
+                    value="diptheria_and_croup">
+                    Diptheria and Croup <br />
+                    <input type="checkbox" name="statistic"
+                    value="diptheria">
+                    Diptheria <br />
+                    <input type="checkbox" name="statistic"
+                    value="croup">
+                    Croup <br />
+                    <input type="checkbox" name="statistic"
+                    value="scarlet_fever">
+                    Scarlet Fever <br />
+                    <input type="checkbox" name="statistic" value="measles">
+                    Measles <br />
+                    <input type="checkbox" name="statistic"
+                    value="whooping_cough">
+                    Whooping Cough <br />
+                    <input type="checkbox" name="statistic" value="pneumonia">
+                    Pneumonia <br />
+                    <input type="checkbox" name="statistic"
+                    value="diarrhea_and_enteritis">
+                    Diarrhea and Enteritis, Under 2 Years <br />
+                    <input type="checkbox" name="statistic"
+                    value="diarrhea_under_five">
+                    Diarrheal Diseases , Under 5 Years <br />
+                    <input type="checkbox" name="statistic"
+                    value="cerebro_spinal_fever">
+                    Meningitis <br />
+                  </td>
+
+                  <td>
+                    <input type="checkbox" name="statistic" value="polio">
+                    Poliomyelitis <br />
+                    <input type="checkbox" name="statistic" value="influenza">
+                    Influenza <br />
+                    <input type="checkbox" name="statistic" value="septicemia">
+                    Puerperal <br />
+                    <input type="checkbox" name="statistic" value="cancer">
+                    Cancer <br />
+                    <input type="checkbox" name="statistic"
+                    value="external_causes">
+                    External Causes <br />
+                    <input type="checkbox" name="statistic" value="violence">
+                    Violence <br />
+                    <input type="checkbox" name="statistic" value="accidental">
+                    Accidental <br />
+                    <input type="checkbox" name="statistic" value="suicide">
+                    Suicide <br />
+                    <input type="checkbox" name="statistic" value="homicidal">
+                    Homicidal <br />
+                    <input type="checkbox" name="statistic" value="smallpox">
+                    Smallpox <br />
+                    <input type="checkbox" name="statistic" value="syphilis">
+                    Syphilis <br />
+                    <input type="checkbox" name="statistic"
+                    value="heart_disease">
+                    Heart Disease <br />
+                    <input type="checkbox" name="statistic" value="apoplexy">
+                    Apoplexy <br />
+                    <input type="checkbox" name="statistic"
+                    value="brights_disease">
+                    Bright's Disease <br />
+                    <input type="checkbox" name="statistic" value="diabetes">
+                    Diabetes <br />
+                    <input type="checkbox" name="statistic" value="goiter">
+                    Goiter
+                  </td>
+                </tr>
+              </table> 
+
+            </td>
+          </tr>
+
+    <!-- ============================================================= -->
+
+          <tr class="submit">
+            <td colspan="1">
+              <input type="submit" name="new_query" value="Submit Query">
+            </td>
+          </tr>
+
+<!-- ============================================================= -->
+
+    </table>
+
+  </form>
+
+<!-- ============================================================= -->
+
+            <p>For more information about this project, please visit the <a href="../aboutus.shtml">About Us</a> page. </p>
+
+    	</div>
+    <!--END CONTENT AREA -->
+	
+    <!-- BEGIN INDIANA UNIVERSITY FOOTER -->
+    <div id="footer">
+        <p>This project has been funded by the National Library of Medicine under Contract No. NO1-LM-6-3503 with the University of Illinois at Chicago, Library of the Health Sciences and by the Indiana State Library as part of a Library Services and Technology Act (LSTA) Digitization Grant.</p>
+        
+        <br />
+        
+        <a href="http://medicine.iu.edu"><img src="../img/IUSM-logo.gif" border="0" alt="Indiana University School of Medicine logo" /></a>
+        <a href="http://www.in.gov/library/"><img src="../img/ISL-logo.gif" border="0" alt="Indiana State Library logo" /></a>
+    
+        <hr />
+        <div id="copyright">
+            <div id="statement">
+                <p>Although these works may be freely accessible on the World Wide Web and may not include any statement about copyright, the U.S. Copyright Act nevertheless provides that such works are protected by copyright. Users must assume that works are protected by copyright until they learn otherwise.</p>
+				
+        	</div>
+    	</div>
+    <!-- END INDIANA UNIVERSITY FOOTER -->
+</body>
+</html>
+

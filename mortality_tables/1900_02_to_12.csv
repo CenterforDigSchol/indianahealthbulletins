@@ -1,0 +1,122 @@
+Month,Year,Region,Population,Scarlet Fever,Measles,Whooping Cough,Pneumonia,"Diarrheal Diseases, Under 5 Years",Cerebro-Spinal Fever,Influenza,Puerperal Septicemia,Cancer,Violence,Smallpox
+February,1900,Indiana (statewide),2644980,14,1,20,401,9,58,65,7,78,87,4
+February,1900,Northern counties,892448,4,0,9,102,3,8,16,3,27,36,0
+February,1900,Central counties,1022694,8,0,8,176,2,31,29,3,34,29,2
+February,1900,Southern counties,729838,2,1,3,123,4,19,20,1,17,22,2
+February,1900,Urban,790522,4,0,5,145,5,17,17,0,33,42,1
+February,1900,Rural,1854458,10,1,15,256,4,41,48,7,45,45,3
+February,1900,"Cities, class 1",192189,2,0,2,40,1,7,7,0,8,9,0
+February,1900,"Cities, class 2",114824,0,0,1,13,0,2,1,0,4,6,0
+February,1900,"Cities, class 3",210866,0,0,2,40,3,3,3,0,8,10,0
+February,1900,"Cities, class 4",140568,1,0,1,27,0,2,4,0,10,7,1
+February,1900,"Cities, class 5",132075,1,0,0,25,1,3,3,0,3,10,0
+March,1900,Indiana (statewide),2644980,14,4,17,594,21,60,97,13,89,100,2
+March,1900,Northern counties,892448,0,0,8,147,6,14,26,4,31,26,0
+March,1900,Central counties,1022694,13,1,3,270,6,30,42,4,41,40,0
+March,1900,Southern counties,729838,1,3,6,177,9,16,29,5,17,34,2
+March,1900,Urban,790522,7,2,1,184,9,26,27,6,38,36,1
+March,1900,Rural,1854458,7,2,16,410,12,34,70,7,51,74,1
+March,1900,"Cities, class 1",192189,5,2,0,58,4,10,7,2,13,8,0
+March,1900,"Cities, class 2",114824,0,0,0,29,0,3,3,2,2,4,0
+March,1900,"Cities, class 3",210866,0,0,1,40,4,2,8,0,14,9,0
+March,1900,"Cities, class 4",140568,1,0,0,33,0,6,3,1,6,7,1
+March,1900,"Cities, class 5",132075,1,0,0,24,1,5,6,1,3,8,0
+April,1900,Indiana (statewide),2644980,13,23,21,463,18,51,91,13,81,116,2
+April,1900,Northern counties,892448,3,9,5,120,6,10,25,4,26,46,0
+April,1900,Central counties,1022694,9,6,12,186,8,29,47,3,35,43,2
+April,1900,Southern counties,729838,1,8,4,157,4,12,19,6,20,27,0
+April,1900,Urban,790522,6,7,10,190,8,22,33,2,34,47,1
+April,1900,Rural,1854458,7,16,11,273,10,29,58,11,47,69,1
+April,1900,"Cities, class 1",192189,3,2,4,61,4,7,19,0,10,13,0
+April,1900,"Cities, class 2",114824,0,1,3,27,1,3,4,1,2,5,0
+April,1900,"Cities, class 3",210866,3,0,1,39,2,4,5,1,7,13,1
+April,1900,"Cities, class 4",140568,0,4,2,36,1,4,4,0,10,6,0
+April,1900,"Cities, class 5",132075,0,0,0,28,0,4,1,0,5,11,0
+May,1900,Indiana (statewide),2638483,11,27,27,224,30,71,34,16,105,105,2
+May,1900,Northern counties,887525,3,8,9,64,10,21,13,3,38,34,1
+May,1900,Central counties,1019903,7,11,11,105,13,25,19,6,45,44,1
+May,1900,Southern counties,731055,1,8,7,55,7,25,2,7,22,27,0
+May,1900,Urban,808965,5,11,5,102,16,25,16,6,44,37,1
+May,1900,Rural,1829518,6,16,22,122,14,46,18,10,61,68,1
+May,1900,"Cities, class 1",195273,1,2,0,33,4,10,5,1,16,9,0
+May,1900,"Cities, class 2",120604,1,2,0,13,4,2,1,1,5,6,0
+May,1900,"Cities, class 3",209745,3,4,3,28,5,10,4,2,8,8,0
+May,1900,"Cities, class 4",149048,0,3,2,14,1,3,4,2,8,6,0
+May,1900,"Cities, class 5",134295,0,0,0,14,2,2,2,0,7,8,1
+June,1900,Indiana (statewide),2638483,10,8,28,102,108,52,18,5,82,120,2
+June,1900,Northern counties,887525,3,4,9,30,21,12,8,1,23,38,0
+June,1900,Central counties,1019903,7,0,10,56,49,29,9,2,35,39,1
+June,1900,Southern counties,731055,0,4,9,16,38,11,1,2,24,43,1
+June,1900,Urban,808965,5,4,8,61,59,25,6,1,37,48,1
+June,1900,Rural,1829518,5,4,20,41,49,27,12,4,45,72,1
+June,1900,"Cities, class 1",195273,2,0,5,34,32,11,2,0,8,6,0
+June,1900,"Cities, class 2",120604,1,1,0,11,11,3,0,0,7,14,0
+June,1900,"Cities, class 3",209745,1,1,1,6,8,3,1,0,12,10,0
+June,1900,"Cities, class 4",149048,0,2,1,7,7,5,3,0,3,8,1
+June,1900,"Cities, class 5",134295,1,0,1,3,1,3,0,1,7,10,0
+July,1900,Indiana (statewide),2638483,2,9,59,63,539,62,13,7,86,146,3
+July,1900,Northern counties,887525,1,3,10,14,112,21,4,3,29,48,0
+July,1900,Central counties,1019903,1,4,35,33,265,29,5,3,34,54,1
+July,1900,Southern counties,731055,0,2,14,16,162,12,4,1,23,44,2
+July,1900,Urban,808965,1,5,27,40,242,27,4,4,36,49,0
+July,1900,Rural,1829518,1,4,32,23,297,35,9,3,50,97,3
+July,1900,"Cities, class 1",195273,0,0,11,17,89,10,0,1,8,18,0
+July,1900,"Cities, class 2",120604,0,3,2,3,37,6,3,0,6,7,0
+July,1900,"Cities, class 3",209745,1,1,3,9,58,4,1,2,6,17,0
+July,1900,"Cities, class 4",149048,0,0,9,7,33,4,0,1,6,5,0
+July,1900,"Cities, class 5",134295,0,1,2,4,25,3,0,0,10,2,0
+August,1900,Indiana (statewide),2643484,2,2,42,54,600,75,3,11,81,145,0
+August,1900,Northern counties,887525,0,1,9,12,189,22,1,1,27,52,0
+August,1900,Central counties,1024904,1,0,22,30,257,31,2,8,34,51,0
+August,1900,Southern counties,731055,1,1,11,12,154,22,0,2,20,42,0
+August,1900,Urban,808965,2,1,21,21,188,31,1,4,30,59,0
+August,1900,Rural,1834519,0,1,21,33,412,44,2,7,51,86,0
+August,1900,"Cities, class 1",195273,1,0,8,8,42,7,1,1,12,14,0
+August,1900,"Cities, class 2",120604,0,1,2,5,29,6,0,0,7,8,0
+August,1900,"Cities, class 3",209745,0,0,5,4,43,9,0,1,6,13,0
+August,1900,"Cities, class 4",149048,1,0,5,2,38,4,0,2,4,7,0
+August,1900,"Cities, class 5",134295,0,0,1,2,36,5,0,0,1,17,0
+September,1900,Indiana (statewide),2643484,4,3,22,61,412,90,6,17,87,123,2
+September,1900,Northern counties,887525,2,1,6,16,178,24,1,2,23,40,2
+September,1900,Central counties,1024904,2,1,8,27,128,38,2,7,37,42,0
+September,1900,Southern counties,731055,0,1,8,18,106,28,3,8,27,41,0
+September,1900,Urban,808965,1,1,11,28,109,30,0,4,37,47,1
+September,1900,Rural,1834519,3,2,11,33,303,60,6,13,50,76,1
+September,1900,"Cities, class 1",195273,0,0,2,8,15,2,0,2,7,14,0
+September,1900,"Cities, class 2",120604,0,0,2,4,22,7,0,0,5,4,0
+September,1900,"Cities, class 3",209745,1,1,3,9,34,11,0,0,10,9,1
+September,1900,"Cities, class 4",149048,0,0,2,3,23,7,0,1,8,11,0
+September,1900,"Cities, class 5",134295,0,0,2,4,15,3,0,1,7,9,0
+October,1900,Indiana (statewide),2516462,8,4,19,136,207,56,11,10,81,108,0
+October,1900,Northern counties,839835,4,0,4,49,58,22,4,3,25,33,0
+October,1900,Central counties,1024791,3,2,9,54,71,19,7,4,39,51,0
+October,1900,Southern counties,651836,1,2,6,33,78,15,0,3,17,24,0
+October,1900,Urban,847302,8,2,8,68,70,19,4,4,43,49,0
+October,1900,Rural,1669160,0,2,11,68,137,37,7,6,38,59,0
+October,1900,"Cities, class 1",228171,0,1,3,13,11,3,2,2,12,17,0
+October,1900,"Cities, class 2",117787,1,0,0,8,11,2,1,1,3,7,0
+October,1900,"Cities, class 3",218623,3,1,3,24,22,8,0,0,11,10,0
+October,1900,"Cities, class 4",161751,0,0,1,15,20,6,1,0,9,10,0
+October,1900,"Cities, class 5",120970,4,0,1,8,6,0,0,1,8,5,0
+November,1900,Indiana (statewide),2516462,15,7,21,191,68,42,14,15,93,126,1
+November,1900,Northern counties,839835,5,0,5,55,13,11,5,3,38,30,1
+November,1900,Central counties,1024791,7,7,7,81,17,20,8,5,34,58,0
+November,1900,Southern counties,651836,3,0,9,55,38,11,1,7,21,38,0
+November,1900,Urban,847302,4,6,3,84,23,15,6,9,46,63,0
+November,1900,Rural,1669160,11,1,18,107,45,27,8,6,47,63,1
+November,1900,"Cities, class 1",228171,0,0,0,24,7,2,1,3,12,17,0
+November,1900,"Cities, class 2",117787,1,0,0,8,2,4,1,4,7,8,0
+November,1900,"Cities, class 3",218623,2,6,2,22,4,7,1,1,8,17,0
+November,1900,"Cities, class 4",161751,0,0,0,22,5,1,0,1,10,13,0
+November,1900,"Cities, class 5",120970,1,0,1,8,5,1,3,0,9,8,0
+December,1900,Indiana (statewide),2516462,14,9,28,299,26,37,20,10,93,100,0
+December,1900,Northern counties,839835,8,2,8,79,11,13,5,6,33,30,0
+December,1900,Central counties,1024791,3,5,7,116,7,20,8,1,41,39,0
+December,1900,Southern counties,651836,3,2,13,104,8,4,7,3,19,31,0
+December,1900,Urban,847302,5,4,6,109,12,16,4,5,36,45,0
+December,1900,Rural,1669160,9,5,22,190,14,21,16,5,57,55,0
+December,1900,"Cities, class 1",228171,0,0,2,23,2,5,1,1,9,13,0
+December,1900,"Cities, class 2",117787,0,0,0,17,2,1,0,2,10,4,0
+December,1900,"Cities, class 3",218623,3,4,1,32,4,3,1,2,7,12,0
+December,1900,"Cities, class 4",161751,1,0,2,23,3,5,1,0,6,11,0
+December,1900,"Cities, class 5",120970,1,0,1,14,1,2,1,0,4,5,0
