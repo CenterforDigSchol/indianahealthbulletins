@@ -18,5 +18,5 @@ This project will include the testing of encoding and workflows for a greater pr
 
 **January 2019- March 2019**
 
--Debug and refine. Usability testing. Deplo
+-Debug and refine. Usability testing. Deploy
 
