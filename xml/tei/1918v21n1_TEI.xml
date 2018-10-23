@@ -1,0 +1,40 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-model href="ISBHTEIv2.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
+<?xml-model href="ISBHTEIv2.rng" type="application/xml"
+schematypens="http://purl.oclc.org/dsdl/schematron"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+          <title>
+            Indiana State Board of Health Monthly Bulletin Vol. 21 No. 1: A Data Curation Project
+          </title>
+          <respStmt>
+            <resp>Edited and mark up done by</resp>
+            <persName xml:id="CMJP">Caitlin Pollock</persName>
+          </respStmt>
+      </titleStmt>
+      <publicationStmt>
+          <publisher>Indiana University-Purdue University Indianapolis
+            University Library Center for Digital Scholarship
+          </publisher>
+          <address>
+            <addrLine>755 West Michigan Street</addrLine>
+            <addrLine>Indianapolis, Indiana 46202 </addrLine>
+            </address>
+      </publicationStmt>
+      <sourceDesc>
+          <biblFull>
+            <titleStmt>
+              <title>Indiana State Board of Health Monthly Bulletin Vol. 21 No. 1</title>
+              <author>Indiana State Board of Health</author>
+              <author>William A. Shimer</author>
+              <editor></editor>
+            </titleStmt>
+          </biblFull>
+      </sourceDesc>
+      </fileDesc>
+    </teiHeader>
+    <text>
+    </text>
+</TEI>
